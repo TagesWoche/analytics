@@ -1,0 +1,548 @@
+,topic_id,level0,level1,level2,level3,title
+0,4,Sport,Handball,,,Handball
+1,7,_Länder,Europa,Schweiz,,Schweiz
+2,15,Veranstaltung,Movie Veranstaltung,,,Movie Veranstaltung
+3,21,_Zeitgeschichte,Finanzkrise,,,Finanzkrise
+4,22,Politik,Europäische Union,,,Europäische Union
+5,34,_Personen,,,,_Personen
+6,35,_Personen,Markus Somm,,,Markus Somm
+7,37,_Personen,Michéline Calmy-Rey,,,Michéline Calmy-Rey
+8,38,Veranstaltung,Theater Veranstaltung,,,Theater Veranstaltung
+9,43,Veranstaltung,Zirkus Veranstaltung,,,Zirkus Veranstaltung
+10,46,Kino,Abenteuer Film,,,Abenteuer Film
+11,47,Kino,Action Film,,,Action Film
+12,48,Kino,Adult Film,,,Adult Film
+13,49,Kino,Animation Film,,,Animation Film
+14,50,Kino,Biografie Film,,,Biografie Film
+15,51,Kino,Crime Film,,,Crime Film
+16,54,Kino,Familienfilm Film,,,Familienfilm Film
+17,55,Kino,Fantasy Film,,,Fantasy Film
+18,56,Kino,Film-Noir Film,,,Film-Noir Film
+19,57,Kino,Historischer Film,,,Historischer Film
+20,58,Kino,Horror Film,,,Horror Film
+21,60,Kino,Kriegsfilm Film,,,Kriegsfilm Film
+22,61,Kino,Kurzfilm Film,,,Kurzfilm Film
+23,62,Kino,Musical Film,,,Musical Film
+24,63,Kino,Musikfilm Film,,,Musikfilm Film
+25,64,Kino,Mystery Film,,,Mystery Film
+26,65,Kino,Romanze Film,,,Romanze Film
+27,66,Kino,Sci-Fi Film,,,Sci-Fi Film
+28,67,Kino,Sport Film,,,Sport Film
+29,68,Kino,Thriller Film,,,Thriller Film
+30,69,Kino,Western Film,,,Western Film
+31,70,Kino,Anderer Film,,,Anderer Film
+32,99,Region der Schweiz,,,,Region der Schweiz
+33,102,Region der Schweiz,Kanton Aargau,,,Kanton Aargau
+34,103,Region der Schweiz,Kanton Appenzell Ausserrhoden,,,Kanton Appenzell Ausserrhoden
+35,104,Region der Schweiz,Kanton Appenzell Innerrhoden,,,Kanton Appenzell Innerrhoden
+36,105,Region der Schweiz,Kanton Bern,,,Kanton Bern
+37,106,Region der Schweiz,Kanton Freiburg,,,Kanton Freiburg
+38,107,Region der Schweiz,Kanton Genf,,,Kanton Genf
+39,108,Region der Schweiz,Kanton Glarus,,,Kanton Glarus
+40,109,Region der Schweiz,Kanton Graubünden,,,Kanton Graubünden
+41,110,Region der Schweiz,Kanton Jura,,,Kanton Jura
+42,111,Region der Schweiz,Kanton Luzern,,,Kanton Luzern
+43,112,Region der Schweiz,Kanton Neuenburg,,,Kanton Neuenburg
+44,113,Region der Schweiz,Kanton Nidwalden,,,Kanton Nidwalden
+45,114,Region der Schweiz,Kanton Obwalden,,,Kanton Obwalden
+46,115,Region der Schweiz,Kanton Schaffhausen,,,Kanton Schaffhausen
+47,116,Region der Schweiz,Kanton Schwyz,,,Kanton Schwyz
+48,117,Region der Schweiz,Kanton Solothurn,,,Kanton Solothurn
+49,118,Region der Schweiz,Kanton St. Gallen,,,Kanton St. Gallen
+50,119,Region der Schweiz,Kanton Tessin,,,Kanton Tessin
+51,120,Region der Schweiz,Kanton Thurgau,,,Kanton Thurgau
+52,121,Region der Schweiz,Kanton Uri,,,Kanton Uri
+53,122,Region der Schweiz,Kanton Waadt,,,Kanton Waadt
+54,123,Region der Schweiz,Kanton Wallis,,,Kanton Wallis
+55,124,Region der Schweiz,Kanton Zug,,,Kanton Zug
+56,136,Sport,Tennis,,,Tennis
+57,138,_Länder,Afrika,,,Afrika
+58,140,_Länder,Australien/Ozeanien,,,Australien/Ozeanien
+59,149,_Firmen,UBS,,,UBS
+60,150,_Firmen,Credit Suisse,,,Credit Suisse
+61,151,_Personen,Roger Federer,,,Roger Federer
+62,152,_Personen,Novak Djokovic,,,Novak Djokovic
+63,153,Wirtschaft,Banken,,,Banken
+64,158,Politik,_Organe,Bundesrat,,Bundesrat
+65,168,Umwelt & Natur,Tiere,,,Tiere
+66,171,Kultur,Fotografie,,,Fotografie
+67,172,_Länder,Asien,Pakistan,,Pakistan
+68,173,_Länder,Asien,Afghanistan,,Afghanistan
+69,182,Politik,_Parteien,BDP,,BDP
+70,183,Politik,_Parteien,GLP,,GLP
+71,189,_Zeitgeschichte,Schweizerhalle-Brand,,,Schweizerhalle-Brand
+72,191,_Firmen,Sandoz,,,Sandoz
+73,192,_Firmen,Ciba,,,Ciba
+74,200,_Länder,Asien,Thailand,,Thailand
+75,204,Politik,_Organe,Landrat BL,,Landrat BL
+76,206,Sport,Volleyball,,,Volleyball
+77,212,Sport,Eishockey,,,Eishockey
+78,216,_Länder,Asien,Japan,,Japan
+79,217,Naturereignisse,Erdbeben,,,Erdbeben
+80,218,_Länder,Asien,China,,China
+81,221,_Länder,Naher Osten,,,Naher Osten
+82,222,_Länder,Naher Osten,Israel,,Israel
+83,223,_Länder,Asien,Iran,,Iran
+84,225,_Länder,Europa,Italien,,Italien
+85,226,_Personen,Silvio Berlusconi,,,Silvio Berlusconi
+86,231,Wirtschaft,Börse,,,Börse
+87,233,Wissenschaft,,,,Wissenschaft
+88,242,_Länder,Europa,Kosovo,,Kosovo
+89,243,_Länder,Europa,Bosnien-Herzegowina,,Bosnien-Herzegowina
+90,244,_Länder,Europa,Slowenien,,Slowenien
+91,246,_Länder,Europa,Mazedonien,,Mazedonien
+92,250,Gesellschaft,Rauchen,,,Rauchen
+93,253,_Firmen,Bank Sarasin,,,Bank Sarasin
+94,255,Sport,Fussball,Xamax Neuenburg,,Xamax Neuenburg
+95,256,_Zeitgeschichte,Fukushima,,,Fukushima
+96,257,_Personen,Sabine Pegoraro,,,Sabine Pegoraro
+97,268,Unglücksfälle und Verbrechen,Völkermord,,,Völkermord
+98,271,_Personen,Andreas Büttiker,,,Andreas Büttiker
+99,273,_Zeitgeschichte,Occupy-Bewegung,,,Occupy-Bewegung
+100,277,Gesellschaft,Hooliganismus,,,Hooliganismus
+101,279,_Personen,Peter Zwick,,,Peter Zwick
+102,281,_Länder,Europa,Spanien,,Spanien
+103,286,Verkehr,Öffentlicher Verkehr,BLT,,BLT
+104,294,_Länder,Asien,Burma,,Burma
+105,295,_Länder,Europa,Norwegen,,Norwegen
+106,298,_Länder,Afrika,Libyen,,Libyen
+107,299,_Länder,Afrika,Tunesien,,Tunesien
+108,300,_Firmen,Google,,,Google
+109,302,_Personen,Doris Leuthard,,,Doris Leuthard
+110,303,Energie,,,,Energie
+111,305,Politik,Gewerkschaften,,,Gewerkschaften
+112,306,Gesellschaft,Altersvorsorge,,,Altersvorsorge
+113,308,_Länder,Naher Osten,Ägypten,,Ägypten
+114,312,_Länder,Europa,Irland,,Irland
+115,313,_Länder,Europa,Niederlande,,Niederlande
+116,314,_Länder,Europa,Belgien,,Belgien
+117,315,_Länder,Europa,Portugal,,Portugal
+118,316,_Länder,Europa,Schweden,,Schweden
+119,317,_Länder,Europa,Dänemark,,Dänemark
+120,319,_Länder,Europa,Finnland,,Finnland
+121,321,_Länder,Europa,Ukraine,,Ukraine
+122,323,_Länder,Asien,Südkorea,,Südkorea
+123,325,Aargau,,,,Aargau
+124,326,Solothurn,,,,Solothurn
+125,329,Politik,_Organe,Ständerat,,Ständerat
+126,330,_Personen,Eveline Widmer-Schlumpf,,,Eveline Widmer-Schlumpf
+127,331,_Personen,Ueli Maurer,,,Ueli Maurer
+128,332,_Personen,Didier Burkhalter,,,Didier Burkhalter
+129,333,_Personen,Simonetta Sommaruga,,,Simonetta Sommaruga
+130,334,_Personen,Johann Schneider Ammann,,,Johann Schneider Ammann
+131,335,_Personen,Barack Obama,,,Barack Obama
+132,336,_Personen,Angela Merkel,,,Angela Merkel
+133,338,Bildung,Fachhochschulen,,,Fachhochschulen
+134,339,_Firmen,Coop,,,Coop
+135,349,Bildung,FHNW,,,FHNW
+136,352,Digital,Twitter,,,Twitter
+137,367,_Personen,Hanspeter Gass,,,Hanspeter Gass
+138,370,_Personen,Carlo Conti,,,Carlo Conti
+139,371,_Personen,Anita Fetz,,,Anita Fetz
+140,372,_Personen,Beat Jans,,,Beat Jans
+141,373,_Personen,Sebastian Frehner,,,Sebastian Frehner
+142,374,_Personen,Silvia Schenker,,,Silvia Schenker
+143,375,_Personen,Peter Malama,,,Peter Malama
+144,376,_Personen,Markus Lehmann,,,Markus Lehmann
+145,377,_Personen,Toni Brunner,,,Toni Brunner
+146,378,_Personen,Cédric Wermuth,,,Cédric Wermuth
+147,379,_Personen,Gabi Huber,,,Gabi Huber
+148,380,_Personen,Fulvio Pelli,,,Fulvio Pelli
+149,381,_Personen,Christophe Darbellay,,,Christophe Darbellay
+150,382,_Personen,Christian Levrat,,,Christian Levrat
+151,383,_Personen,Urs Schwaller,,,Urs Schwaller
+152,384,_Personen,Ueli Leuenberger,,,Ueli Leuenberger
+153,385,_Personen,Adrian Ballmer,,,Adrian Ballmer
+154,387,_Personen,Urs Wüthrich-Pelloli,,,Urs Wüthrich-Pelloli
+155,388,_Personen,Isaac Reber,,,Isaac Reber
+156,390,_Personen,Claude Janiak,,,Claude Janiak
+157,391,_Personen,Daniela Schneeberger,,,Daniela Schneeberger
+158,392,_Personen,Susanne Leutenegger Oberholzer,,,Susanne Leutenegger Oberholzer
+159,393,_Personen,Eric Nussbaumer,,,Eric Nussbaumer
+160,394,_Personen,Thomas de Courten,,,Thomas de Courten
+161,395,_Personen,Caspar Baader,,,Caspar Baader
+162,396,_Personen,Elisabeth Schneider-Schneiter,,,Elisabeth Schneider-Schneiter
+163,397,_Personen,Maya Graf,,,Maya Graf
+164,398,Medien,Radio Basel,,,Radio Basel
+165,399,Medien,Radio Basilisk,,,Radio Basilisk
+166,400,Medien,Blick,,,Blick
+167,401,Medien,Weltwoche,,,Weltwoche
+168,404,Sport,Fussball,Servette Genf,,Servette Genf
+169,411,_Länder,Naher Osten,Jemen,,Jemen
+170,412,_Feiertage,,,,_Feiertage
+171,413,_Feiertage,Weihnachten,,,Weihnachten
+172,416,_Länder,Europa,Österreich,,Österreich
+173,417,Umwelt & Natur,Tierschutz,,,Tierschutz
+174,419,Bildung,Kindergarten,,,Kindergarten
+175,421,Sport,Leichtathletik,,,Leichtathletik
+176,422,Medien,NZZ,,,NZZ
+177,423,Sport,Ski nordisch,,,Ski nordisch
+178,424,Sport,Ski alpin,,,Ski alpin
+179,425,_Länder,Afrika,Mali,,Mali
+180,426,Wirtschaft,Milchmarkt,,,Milchmarkt
+181,427,Gesellschaft,Suizid,,,Suizid
+182,428,_Firmen,Ricola,,,Ricola
+183,429,_Zeitgeschichte,Stuttgart 21,,,Stuttgart 21
+184,431,Sport,Pferdesport,,,Pferdesport
+185,436,Medien,Bilanz,,,Bilanz
+186,437,Umwelt & Natur,Altlasten,,,Altlasten
+187,438,Umwelt & Natur,Giftmüll,,,Giftmüll
+188,439,_Länder,Asien,Tibet,,Tibet
+189,440,Gesellschaft,Sekten,,,Sekten
+190,443,Sport,Radsport,,,Radsport
+191,444,_Personen,Pierre-Yves Maillard,,,Pierre-Yves Maillard
+192,445,_Firmen,Swisscom,,,Swisscom
+193,446,_Firmen,Sunrise,,,Sunrise
+194,447,Wirtschaft,Telekommunikation,,,Telekommunikation
+195,448,_Länder,Europa,Island,,Island
+196,450,_Länder,Afrika,Kongo,,Kongo
+197,452,_Personen,Hansjörg Walter,,,Hansjörg Walter
+198,456,Energie,Atomkraft,,,Atomkraft
+199,457,Sport,Orientierungslauf,,,Orientierungslauf
+200,459,Digital,Wikileaks,,,Wikileaks
+201,460,_Personen,Julian Assange,,,Julian Assange
+202,461,_Länder,Nordamerika,Kanada,,Kanada
+203,462,Umwelt & Natur,Gentech,,,Gentech
+204,463,_Länder,Asien,Philippinen,,Philippinen
+205,464,_Länder,Europa,Tschechien,,Tschechien
+206,467,Politik,_Themen,Sozialwerke,Invalidenversicherung,Invalidenversicherung
+207,470,Politik,_Themen,Sozialwerke,Arbeitslosenversicherung,Arbeitslosenversicherung
+208,472,Wetter,,,,Wetter
+209,480,_Länder,Asien,Nordkorea,,Nordkorea
+210,481,_Länder,Afrika,Somalia,,Somalia
+211,485,Sport,Schach,,,Schach
+212,486,_Personen,Philipp Hildebrand,,,Philipp Hildebrand
+213,487,_Länder,Südamerika,Haiti,,Haiti
+214,488,_Jahreszeiten,,,,_Jahreszeiten
+215,489,_Jahreszeiten,Winter,,,Winter
+216,490,_Jahreszeiten,Frühling,,,Frühling
+217,492,_Jahreszeiten,Herbst,,,Herbst
+218,493,_Personen,Dario Cologna,,,Dario Cologna
+219,495,Unglücksfälle und Verbrechen,,,,Unglücksfälle und Verbrechen
+220,497,_Firmen,Nestlé,,,Nestlé
+221,498,_Zeitgeschichte,WEF,,,WEF
+222,499,Unglücksfälle und Verbrechen,Brand,,,Brand
+223,500,Gesellschaft,Jugendschutz,,,Jugendschutz
+224,506,_Länder,Südamerika,Kuba,,Kuba
+225,508,Lokales,EuroAirport,,,EuroAirport
+226,509,Politik,Internationale Organisationen,,,Internationale Organisationen
+227,510,Politik,Internationale Organisationen,UNO,,UNO
+228,511,Politik,Internationale Organisationen,Weltbank,,Weltbank
+229,512,_Personen,Nicolas Sarkozy,,,Nicolas Sarkozy
+230,516,Sport,Motorsport,,,Motorsport
+231,517,Sport,Formel 1,,,Formel 1
+232,518,_Länder,Südamerika,Brasilien,,Brasilien
+233,524,Sport,Doping,,,Doping
+234,526,_Länder,Afrika,Mosambik,,Mosambik
+235,528,Umwelt & Natur,Abfall,,,Abfall
+236,529,Sport,Eiskunstlauf,,,Eiskunstlauf
+237,530,Lokales,Zoo Basel,,,Zoo Basel
+238,531,_Firmen,Clariant,,,Clariant
+239,533,Sport,Snowboard,,,Snowboard
+240,534,Gesellschaft,Sterbehilfe,,,Sterbehilfe
+241,536,_Textformen & feste Rubriken,,,,_Textformen & feste Rubriken
+242,541,_Personen,Wladimir Putin,,,Wladimir Putin
+243,543,Medien,20 Minuten,,,20 Minuten
+244,547,Wirtschaft,Uhrenindustrie,,,Uhrenindustrie
+245,548,Wirtschaft,Maschinenindustrie,,,Maschinenindustrie
+246,551,_Personen,Rudolf Rechsteiner,,,Rudolf Rechsteiner
+247,552,Sport,Biathlon,,,Biathlon
+248,553,Unglücksfälle und Verbrechen,Cyberkriminalität,,,Cyberkriminalität
+249,556,_Feiertage,Ostern,,,Ostern
+250,558,_Feiertage,Silvester,,,Silvester
+251,561,_Zeitgeschichte,,,,_Zeitgeschichte
+252,562,Politik,_Themen,,,_Themen
+253,564,Energie,Erneuerbare Energien,,,Erneuerbare Energien
+254,565,Unglücksfälle und Verbrechen,Überschwemmungen,,,Überschwemmungen
+255,566,Politik,Internationale Organisationen,Nato,,Nato
+256,575,Naturereignisse,,,,Naturereignisse
+257,585,Sport,Badminton,,,Badminton
+258,586,_Firmen,Apple,,,Apple
+259,587,Lifestyle,Heimelektronik,,,Heimelektronik
+260,589,_Textformen & feste Rubriken,Community,,,Community
+261,590,Sport,Rugby,,,Rugby
+262,591,_Personen,Herzog & de Meuron,,,Herzog & de Meuron
+263,592,Sport,Curling,,,Curling
+264,594,_Personen,Martin Lüchinger,,,Martin Lüchinger
+265,597,Sport,Golf,,,Golf
+266,599,Politik,_Parteien,Piratenpartei,,Piratenpartei
+267,601,_Textformen & feste Rubriken,Wochengedicht,,,Wochengedicht
+268,602,_Textformen & feste Rubriken,Fotoarchiv Kurt Wyss,,,Fotoarchiv Kurt Wyss
+269,603,_Textformen & feste Rubriken,Malenas Welt,,,Malenas Welt
+270,605,_Textformen & feste Rubriken,Kultwerk,,,Kultwerk
+271,606,_Textformen & feste Rubriken,Gefordert,,,Gefordert
+272,607,Sport,Olympische Spiele,Olympische Spiele 2012,,Olympische Spiele 2012
+273,609,Sport,Fussball,Euro 2012,,Euro 2012
+274,610,_Länder,Asien,Aserbaidschan,,Aserbaidschan
+275,612,_Zeitgeschichte,Eurokrise,,,Eurokrise
+276,613,Sport,Rudern,,,Rudern
+277,614,Sport,Fechten,,,Fechten
+278,615,_Textformen & feste Rubriken,Themenvorschau,,,Themenvorschau
+279,616,_Länder,Europa,Malta,,Malta
+280,617,_Länder,Afrika,Algerien,,Algerien
+281,619,_Länder,Europa,Bulgarien,,Bulgarien
+282,620,_Personen,Rafael Nadal,,,Rafael Nadal
+283,621,_Personen,Sam Keller,,,Sam Keller
+284,623,Kultur,Poetry Slam,,,Poetry Slam
+285,624,Umwelt & Natur,Weltraum,,,Weltraum
+286,627,Wirtschaft,Landwirtschaft,,,Landwirtschaft
+287,630,_Textformen & feste Rubriken,Quartierporträt,,,Quartierporträt
+288,631,_Zeitgeschichte,Wahlen BS 2012,,,Wahlen BS 2012
+289,632,_Länder,Afrika,Sudan,,Sudan
+290,633,_Länder,Afrika,Südsudan,,Südsudan
+291,635,Raumfahrt,,,,Raumfahrt
+292,640,_Personen,Mitt Romney,,,Mitt Romney
+293,641,Mehmets Asien-Küchenexpedition,,,,Mehmets Asien-Küchenexpedition
+294,642,Flug,,,,Flug
+295,649,Riehen,,,,Riehen
+296,654,Kultur,Archäologie,,,Archäologie
+297,655,_Länder,Afrika,Südafrika,,Südafrika
+298,656,Sport,Fussball,WM 2014,,WM 2014
+299,658,Restaurant: Küche,Küche: Italienisch,,,Küche: Italienisch
+300,659,Restaurant: Küche,Küche: Spanisch,,,Küche: Spanisch
+301,660,Restaurant: Küche,Küche: Türkisch,,,Küche: Türkisch
+302,661,Restaurant: Küche,Küche: Asiatisch,,,Küche: Asiatisch
+303,662,Restaurant: Küche,Küche: Chinesisch,,,Küche: Chinesisch
+304,663,Restaurant: Küche,Küche: Fisch,,,Küche: Fisch
+305,664,Restaurant: Küche,Küche: Französisch,,,Küche: Französisch
+306,665,Restaurant: Küche,Küche: Gourmet,,,Küche: Gourmet
+307,666,Restaurant: Küche,Küche: Griechisch,,,Küche: Griechisch
+308,667,Restaurant: Küche,Küche: Gut bürgerlich,,,Küche: Gut bürgerlich
+309,668,Restaurant: Küche,Küche: Hamburger,,,Küche: Hamburger
+310,669,Restaurant: Küche,Küche: Indisch,,,Küche: Indisch
+311,670,Restaurant: Küche,Küche: Indonesisch,,,Küche: Indonesisch
+312,671,Restaurant: Küche,Küche: Japanisch,,,Küche: Japanisch
+313,672,Restaurant: Küche,Küche: Kreolisch (Karibik),,,Küche: Kreolisch (Karibik)
+314,673,Restaurant: Küche,Küche: Koreanisch,,,Küche: Koreanisch
+315,674,Restaurant: Küche,Küche: Mexikanisch,,,Küche: Mexikanisch
+316,675,Restaurant: Küche,Küche: Mongolisch,,,Küche: Mongolisch
+317,676,Restaurant: Küche,Küche: Pizzeria,,,Küche: Pizzeria
+318,677,Restaurant: Küche,Küche: Sushi,,,Küche: Sushi
+319,678,Restaurant: Küche,Küche: Thailändisch,,,Küche: Thailändisch
+320,679,Restaurant: Küche,Küche: Vietnamesisch,,,Küche: Vietnamesisch
+321,680,Restaurant: Küche,Küche: Marokkanisch,,,Küche: Marokkanisch
+322,681,Restaurant: Küche,Küche: Brasserie,,,Küche: Brasserie
+323,682,Restaurant: Küche,Küche: Portugiesisch,,,Küche: Portugiesisch
+324,683,Restaurant: Küche,Küche: Vegetarisch,,,Küche: Vegetarisch
+325,684,Restaurant: Küche,Küche: Argentinisch,,,Küche: Argentinisch
+326,685,Restaurant: Küche,Küche: Kuchen und Gebäck,,,Küche: Kuchen und Gebäck
+327,686,Restaurant: Küche,Küche: Balkan,,,Küche: Balkan
+328,687,Restaurant: Küche,Küche: Fusion,,,Küche: Fusion
+329,688,Restaurant: Küche,Küche: Ungarisch,,,Küche: Ungarisch
+330,689,Restaurant: Küche,Küche: Regional,,,Küche: Regional
+331,690,Restaurant: Küche,Küche: Snacks,,,Küche: Snacks
+332,691,Restaurant: Küche,Küche: Libanesisch,,,Küche: Libanesisch
+333,692,Restaurant: Küche,Küche: Andere,,,Küche: Andere
+334,693,Restaurant: Ambiente,,,,Restaurant: Ambiente
+335,694,Restaurant: Ambiente,Ambiente: Business,,,Ambiente: Business
+336,695,Restaurant: Ambiente,Ambiente: Elegant,,,Ambiente: Elegant
+337,696,Restaurant: Ambiente,Ambiente: Festlich,,,Ambiente: Festlich
+338,697,Restaurant: Ambiente,Ambiente: Gourmet,,,Ambiente: Gourmet
+339,698,Restaurant: Ambiente,Ambiente: Klassisch,,,Ambiente: Klassisch
+340,699,Restaurant: Ambiente,Ambiente: Modern,,,Ambiente: Modern
+341,700,Restaurant: Ambiente,Ambiente: Romantisch,,,Ambiente: Romantisch
+342,701,Restaurant: Ambiente,Ambiente: Trendy,,,Ambiente: Trendy
+343,702,Restaurant: Ambiente,Ambiente: Orientalisch,,,Ambiente: Orientalisch
+344,703,Restaurant: Ambiente,Ambiente: Landestypisch,,,Ambiente: Landestypisch
+345,704,Restaurant: Ambiente,Ambiente: Rustikal,,,Ambiente: Rustikal
+346,705,Restaurant: Ambiente,Ambiente: American Restaurant,,,Ambiente: American Restaurant
+347,706,Restaurant: Ambiente,Ambiente: South of the Border,,,Ambiente: South of the Border
+348,707,Restaurant: Ambiente,Ambiente: Andere,,,Ambiente: Andere
+349,709,Verkehr,U-Abo,,,U-Abo
+350,710,Medien,TagesWoche FAQ,,,TagesWoche FAQ
+351,711,Lokales,Fasnacht,Basler Fasnacht 2012,,Basler Fasnacht 2012
+352,712,Politik,Abstimmungen & Wahlen,Bundesratswahlen 2011,,Bundesratswahlen 2011
+353,713,Politik,Abstimmungen & Wahlen,Eidgenössische Wahlen 2011,,Eidgenössische Wahlen 2011
+354,714,_Länder,Asien,Indien,,Indien
+355,715,_Textformen & feste Rubriken,Videointerviews Regierungskandidaten,,,Videointerviews Regierungskandidaten
+356,716,Gesellschaft,Psychiatrie,KJPK,,KJPK
+357,717,_Personen,Elia Rediger,,,Elia Rediger
+358,718,_Personen,Emmanuel Ullmann,,,Emmanuel Ullmann
+359,719,_Personen,Christophe Haller,,,Christophe Haller
+360,720,Politik,Abstimmungen & Wahlen,Regierungsratswahlen BS 2012,,Regierungsratswahlen BS 2012
+361,721,Politik,Abstimmungen & Wahlen,Grossratswahlen BS 2012,,Grossratswahlen BS 2012
+362,722,_Länder,Europa,Vatikan,,Vatikan
+363,723,_Länder,Südamerika,Venezuela,,Venezuela
+364,724,_Länder,Südamerika,Argentinien,,Argentinien
+365,726,_Länder,Europa,Albanien,,Albanien
+366,728,Sport,Triathlon,,,Triathlon
+367,729,_Personen,Heiko Vogel,,,Heiko Vogel
+368,730,_Personen,Murat Yakin,,,Murat Yakin
+369,731,Gesellschaft,Gesundheit,Medges,,Medges
+370,732,_Firmen,BKB,,,BKB
+371,733,_Länder,Asien,Kuwait,,Kuwait
+372,734,Lokales,Herbstmesse,,,Herbstmesse
+373,736,_Länder,Mittelamerika,,,Mittelamerika
+374,737,Sport,Fussball,Euro 2020,,Euro 2020
+375,741,_Firmen,Glencore,,,Glencore
+376,743,_Textformen & feste Rubriken,Adventskalender,,,Adventskalender
+377,744,_Textformen & feste Rubriken,Jahresrückblick 2012,,,Jahresrückblick 2012
+378,745,_Firmen,Messe Basel,,,Messe Basel
+379,746,_Textformen & feste Rubriken,Herausgefordert im 2013,,,Herausgefordert im 2013
+380,747,Sport,Olympische Spiele,Olympische Winterspiele 2022,,Olympische Winterspiele 2022
+381,748,Politik,Abstimmungen & Wahlen,Regierungsratswahlen BL 2013,,Regierungsratswahlen BL 2013
+382,749,Lokales,Fasnacht,Basler Fasnacht 2013,,Basler Fasnacht 2013
+383,750,Region der Schweiz,Region Zentralschweiz,,,Region Zentralschweiz
+384,751,_Länder,Europa,Armenien,,Armenien
+385,752,_Länder,Naher Osten,Jordanien,,Jordanien
+386,753,Politik,_Parteien,EVP,,EVP
+387,754,_Zeitgeschichte,Schloss-Initiative,,,Schloss-Initiative
+388,756,_Textformen & feste Rubriken,Ivan Ergić,,,Ivan Ergić
+389,757,Sport,American Football,,,American Football
+390,761,Sport,Billard,,,Billard
+391,762,_Länder,Asien,Bangladesch,,Bangladesch
+392,764,Sport,Fussball,FC Aarau,,FC Aarau
+393,765,_Zeitgeschichte,Polizeieinsatz an der Art,,,Polizeieinsatz an der Art
+394,766,Kultur,Literatur & Lyrik,Basler Buchtipp,,Basler Buchtipp
+395,768,_Textformen & feste Rubriken,Ausflugstipps,,,Ausflugstipps
+396,769,Sport,Behindertensport,,,Behindertensport
+397,774,_Textformen & feste Rubriken,Wir fahren Tram,,,Wir fahren Tram
+398,776,_Quartiere,Bruderholz,,,Bruderholz
+399,778,_Quartiere,Iselin,,,Iselin
+400,779,Politik,_Themen,Armee,Wehrpflicht,Wehrpflicht
+401,780,Gesellschaft,Physik,,,Physik
+402,781,Fusion BS/BL,,,,Fusion BS/BL
+403,783,Politik,Abstimmungen & Wahlen,Abstimmungen vom 22. September 2013,,Abstimmungen vom 22. September 2013
+404,785,Politik,Abstimmungen & Wahlen,1:12-Initiative,,1:12-Initiative
+405,786,Bye-Bye Basel,,,,Bye-Bye Basel
+406,787,_Länder,Südamerika,Ecuador,,Ecuador
+407,788,Gesellschaft,Durness-Messina,,,Durness-Messina
+408,790,_Textformen & feste Rubriken,TagesWoche Mittendrin,,,TagesWoche Mittendrin
+409,791,_Textformen & feste Rubriken,Kimstedt liest,,,Kimstedt liest
+410,792,Gotthelf,,,,Gotthelf
+411,794,Zeitmaschine,,,,Zeitmaschine
+412,796,Jurafrage,,,,Jurafrage
+413,797,_Länder,Europa,Lettland,,Lettland
+414,798,Politik,Abstimmungen & Wahlen,Abstimmungen vom 24. November,,Abstimmungen vom 24. November
+415,800,Sport,Olympische Spiele,,,Olympische Spiele
+416,801,Sport,Olympische Spiele,Olympische Winterspiele 2014,,Olympische Winterspiele 2014
+417,802,Medien,WOZ,,,WOZ
+418,803,_Quartiere,Breite,,,Breite
+419,804,_Quartiere,Breite,Autobahn,,Autobahn
+420,805,_Quartiere,Breite,Autobahn,Schwarzwaldbrücke,Schwarzwaldbrücke
+421,806,_Textformen & feste Rubriken,Jahresrückblick 2013,,,Jahresrückblick 2013
+422,807,_Textformen & feste Rubriken,Hazel Unchained,,,Hazel Unchained
+423,808,Gesellschaft,Generation Slash,,,Generation Slash
+424,809,Politik,Abstimmungen & Wahlen,Einwanderungsinitiativen,,Einwanderungsinitiativen
+425,810,_Zeitgeschichte,Honoraraffäre,,,Honoraraffäre
+426,812,Lokales,Fasnacht,Basler Fasnacht 2014,,Basler Fasnacht 2014
+427,813,Politik,Abstimmungen & Wahlen,Abstimmungen vom 9. Februar 2014,,Abstimmungen vom 9. Februar 2014
+428,814,Politik,Abstimmungen & Wahlen,Abstimmungs-Spickzettel,,Abstimmungs-Spickzettel
+429,815,Wissenschaft,Gender Studies,,,Gender Studies
+430,816,_Textformen & feste Rubriken,Debatte,,,Debatte
+431,824,Christoph Merian Stiftung,,,,Christoph Merian Stiftung
+432,825,Baudepartement,,,,Baudepartement
+433,828,Streik,,,,Streik
+434,842,Sprache,,,,Sprache
+435,843,Linke,,,,Linke
+436,844,Frieden,,,,Frieden
+437,845,Esskultur,,,,Esskultur
+438,848,Forschung,,,,Forschung
+439,853,Abstimmungen vom 18. Mai 2014,,,,Abstimmungen vom 18. Mai 2014
+440,856,Zehn Jahre EU-Osterweiterung,,,,Zehn Jahre EU-Osterweiterung
+441,859,Mindestlohninitiative,,,,Mindestlohninitiative
+442,865,Partner,,,,Partner
+443,866,Partner,Partner: SBB Reisen,,,Partner: SBB Reisen
+444,867,_Textformen & feste Rubriken,Monsterwoche,,,Monsterwoche
+445,868,_Personen,Paulo Sousa,,,Paulo Sousa
+446,869,Kultur,Kultur Brasiliens,,,Kultur Brasiliens
+447,870,_Zeitgeschichte,Wagenplatz,,,Wagenplatz
+448,874,_Textformen & feste Rubriken,100 Jahre 1. Weltkrieg,,,100 Jahre 1. Weltkrieg
+449,876,Kultur,Kunst,Kunst am Wegrand,,Kunst am Wegrand
+450,879,Sport,Segeln,,,Segeln
+451,881,Sport,Fussball,FC Basel,FCB im Spiegel der Weltliteratur,FCB im Spiegel der Weltliteratur
+452,882,Partner: SBB Abenteuer,,,,Partner: SBB Abenteuer
+453,883,Gesellschaft,Rassismus,Basel zeigt Haltung,,Basel zeigt Haltung
+454,886,_Quartiere,Dreispitz,,,Dreispitz
+455,888,Sport,Tennis,Swiss Indoors,,Swiss Indoors
+456,889,Andi Gross,,,,Andi Gross
+457,890,Gregor Gysi,,,,Gregor Gysi
+458,892,Politik,Internationale Organisationen,OSZE,,OSZE
+459,893,Politik,Internationale Organisationen,OSZE,OSZE-Kongress in Basel,OSZE-Kongress in Basel
+460,895,Politik,Abstimmungen & Wahlen,Abstimmungen 30. November,,Abstimmungen 30. November
+461,896,Politik,Abstimmungen & Wahlen,Abstimmungen 30. November,Integrationsinitiative,Integrationsinitiative
+462,897,Politik,Abstimmungen & Wahlen,Abstimmungen 30. November,Ecopop,Ecopop
+463,901,Sport,Tennis,Davis Cup,,Davis Cup
+464,902,_Personen,Vania Alleva,,,Vania Alleva
+465,905,Region,Pratteln,,,Pratteln
+466,906,_Zeitgeschichte,Expo Milano,,,Expo Milano
+467,907,_Firmen,Syngenta,,,Syngenta
+468,908,Partner,Unabhängig mobil: Catch a car,,,Unabhängig mobil: Catch a car
+469,909,Kultur,Kulturjahr,,,Kulturjahr
+470,910,Politik,Abstimmungen & Wahlen,Wahlen BL 2015,,Wahlen BL 2015
+471,911,_Feiertage,Silvester,Ausblick 2015,,Ausblick 2015
+472,912,_Länder,Europa,Slowakei,,Slowakei
+473,913,_Länder,Europa,Litauen,,Litauen
+474,914,Sport,Pferdesport,CSI Basel,,CSI Basel
+475,915,Sport,Fussball,Fifa,,Fifa
+476,916,Kultur,Museen,Museumsnacht,,Museumsnacht
+477,918,Wirtschaft,Finanzwirtschaft,Euro-Mindestkurs,,Euro-Mindestkurs
+478,919,_Zeitgeschichte,Nationalsozialismus,,,Nationalsozialismus
+479,920,Lokales,Fasnacht,Basler Fasnacht 2015,,Basler Fasnacht 2015
+480,921,Wochenthema,,,,Wochenthema
+481,923,Lokales,Stadtentwicklung,Wochenthema Hochhäuser,,Wochenthema Hochhäuser
+482,924,Lifestyle,Ernährung,Rezept,,Rezept
+483,925,Wochenthema,Wochenthema Feminismus,,,Wochenthema Feminismus
+484,926,Lokales,Entlastungspaket BS 2015-17,,,Entlastungspaket BS 2015-17
+485,927,Sport,FC Porto,,,FC Porto
+486,928,Politik,Abstimmungen & Wahlen,Abstimmungen 8. März 2015,,Abstimmungen 8. März 2015
+487,929,Politik,Abstimmungen & Wahlen,Abstimmungen 8. März 2015,Energiesteuer-Initiative,Energiesteuer-Initiative
+488,934,Wochenthema,Wochenthema Clubszene,,,Wochenthema Clubszene
+489,935,Wochenthema,Wochenthema Landwirtschaft,,,Wochenthema Landwirtschaft
+490,937,Wochenthema,Wochenthema Frankenstärke,,,Wochenthema Frankenstärke
+491,938,Wochenthema,Wochenthema Mitwirkung,,,Wochenthema Mitwirkung
+492,940,Wochenthema,Wochenthema Scientology,,,Wochenthema Scientology
+493,941,Wochenthema Filmszene Basel,,,,Wochenthema Filmszene Basel
+494,942,Wochenthema,Wochenthema Verkehrskonzept,,,Wochenthema Verkehrskonzept
+495,943,Kultur,Kulturgeschichte,,,Kulturgeschichte
+496,944,Wochenthema,Wochenthema Fortpflanzungsmedizin,,,Wochenthema Fortpflanzungsmedizin
+497,945,_Länder,Europa,Kasachstan,,Kasachstan
+498,946,_Zeitgeschichte,40 Jahre Vietnamkrieg,,,40 Jahre Vietnamkrieg
+499,947,_Länder,Asien,Vietnam,,Vietnam
+500,948,Wochenthema,Wochenthema Erbschaftssteuer,,,Wochenthema Erbschaftssteuer
+501,949,_Länder,Asien,Nepal,,Nepal
+502,950,Politik,Abstimmungen & Wahlen,Abstimmungen vom 14. Juni 2015,,Abstimmungen vom 14. Juni 2015
+503,951,Politik,Abstimmungen & Wahlen,Abstimmungen vom 14. Juni 2015,Erbschaftssteuer,Erbschaftssteuer
+504,952,Politik,Abstimmungen & Wahlen,Eidgenössische Wahlen 2015,,Eidgenössische Wahlen 2015
+505,954,Lifestyle,Ernährung,Essen fürs Auge,,Essen fürs Auge
+506,955,_Länder,Naher Osten,Saudi Arabien,,Saudi Arabien
+507,958,Politik,Finanzpolitik,Finanzen BL,,Finanzen BL
+508,961,Internet,,,,Internet
+509,965,Service public,,,,Service public
+510,966,Loprieno,,,,Loprieno
+511,969,_Länder,Europa,Rumänien,,Rumänien
+512,971,Mexiko,,,,Mexiko
+513,972,Sport,Klettern,,,Klettern
+514,979,_Länder,Südamerika,Chile,,Chile
+515,980,Sport,EHC Basel,,,EHC Basel
+516,981,Zwischennutzung,Werkraum Schlotterbeck,,,Werkraum Schlotterbeck
+517,982,_Länder,Europa,Belarus,Weissrussland,Belarus / Weissrussland
+518,983,Partner,Partner: Buy-Local,,,Partner: Buy-Local
+519,984,_Länder,Afrika,Elfenbeinküste,,Elfenbeinküste
+520,985,Politik,_Organe,Bundesverwaltung,,Bundesverwaltung
+521,990,Politik,Abstimmungen & Wahlen,Bundesratswahlen 2015,,Bundesratswahlen 2015
+522,993,_Zeitgeschichte,#ParisAttacks,,,#ParisAttacks
+523,994,_Länder,Afrika,Burkina Faso,,Burkina Faso
+524,995,_Länder,Europa,Zypern,,Zypern
+525,996,_Zeitgeschichte,20 Jahre Dayton-Abkommen,,,20 Jahre Dayton-Abkommen
+526,1009,Sport,Unihockey,,,Unihockey
+527,1011,Muba,,,,Muba
+528,1013,Buvette,,,,Buvette
+529,1014,Parkplätze,,,,Parkplätze
+530,1017,Ozeanium,,,,Ozeanium
+531,1018,Sport,Olympische Spiele,Olympische Spiele 2016,,Olympische Spiele 2016
+532,1019,Region heute,,,,Region heute
+533,1020,_Zeitgeschichte,Überzeit-Analyse,,,Überzeit-Analyse
+534,1021,_Zeitgeschichte,50 Jahre Frauenstimmrecht,,,50 Jahre Frauenstimmrecht
+535,1024,Kultur,Zirkus,,,Zirkus
+536,1030,jazz,,,,jazz
+537,1031,Altersheim,,,,Altersheim
+538,1032,Sport,Schwingen,,,Schwingen
+539,1035,Sport,Turnen,,,Turnen
+540,1038,Sport,Fussball,Uefa,,Uefa
+541,1045,Montenegro,,,,Montenegro
+542,1047,Medien,Fernsehen,Serien,,Serien
+543,1049,_Personen,Donald Trump,,,Donald Trump
+544,1050,_Länder,Südamerika,Kolumbien,,Kolumbien
+545,1051,Lifehack,,,,Lifehack
+546,1055,Geschichte,,,,Geschichte

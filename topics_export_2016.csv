@@ -1,0 +1,606 @@
+,topic_id,count,pageviews,average,median,min,max,level0,level1,level2,level3,title
+0,2,884,1151570,1302.6809954751131,807.5,22,23104,Sport,,,,Sport
+1,26,813,1148905,1413.1672816728167,957.0,22,23104,Sport,Fussball,,,Fussball
+2,3,484,920910,1902.706611570248,1556.5,23,23104,Sport,Fussball,FC Basel,,FC Basel
+3,18,248,290811,1172.625,488.5,24,19312,Politik,,,,Politik
+4,129,220,242740,1103.3636363636363,692.5,40,9825,Kultur,,,,Kultur
+5,141,212,222145,1047.8537735849056,396.0,22,11818,Wirtschaft,,,,Wirtschaft
+6,288,173,157463,910.1907514450867,282.0,22,14103,Politik,_Themen,Migration,,Migration
+7,285,168,275455,1639.6130952380952,1414.0,23,14934,Sport,Fussball,Swiss Football League SFL,,Swiss Football League SFL
+8,975,165,226061,1370.0666666666666,436.0,22,27387,Politik,_Themen,Migration,Flüchtlinge,Flüchtlinge
+9,28,156,298275,1912.0192307692307,949.0,22,38175,Gesellschaft,,,,Gesellschaft
+10,133,151,206424,1367.046357615894,720.0,38,15648,Kultur,Musik,,,Musik
+11,1007,150,307383,2049.22,1661.0,100,16369,Politik,Abstimmungen & Wahlen,Wahlen BS 2016,,Wahlen BS 2016
+12,177,146,136659,936.0205479452055,388.5,50,11818,Verkehr,,,,Verkehr
+13,1019,144,68522,475.84722222222223,363.5,73,3465,Region heute,,,,Region heute
+14,738,132,122411,927.3560606060606,490.5,22,5268,Sport,Fussball,Euro 2016,,Euro 2016
+15,455,125,241645,1933.16,1475.0,203,11244,Lokales,Stadtentwicklung,,,Stadtentwicklung
+16,441,118,152678,1293.8813559322034,853.0,35,14934,Sport,Fussball,Champions League,,Champions League
+17,100,114,190570,1671.6666666666667,969.5,26,14429,Region der Schweiz,Kanton Basel-Stadt,,,Kanton Basel-Stadt
+18,144,112,149284,1332.892857142857,951.0,119,6704,Kultur,Kunst,,,Kunst
+19,33,111,126260,1137.4774774774776,448.0,22,11251,Digital,,,,Digital
+20,202,104,111124,1068.5,492.0,35,7306,Baselland,,,,Baselland
+21,513,100,173342,1733.42,911.5,24,37126,Politik,Abstimmungen & Wahlen,,,Abstimmungen & Wahlen
+22,311,99,92436,933.6969696969697,502.0,51,6817,Sport,Fussball,Nationalmannschaft,,Nationalmannschaft
+23,7,98,66692,680.530612244898,122.5,28,25447,_Länder,Europa,Schweiz,,Schweiz
+24,126,97,224851,2318.0515463917527,1256.0,35,38175,Region der Schweiz,Region Basel,,,Region Basel
+25,241,94,90472,962.468085106383,657.0,53,8107,Kultur,Museen,,,Museen
+26,636,90,115126,1279.1777777777777,468.0,26,12608,Gesellschaft,Gesundheit,,,Gesundheit
+27,708,90,165331,1837.0111111111112,1288.5,86,14934,Sport,Fussball,Europa League,,Europa League
+28,136,89,25024,281.1685393258427,142.0,32,2174,Sport,Tennis,,,Tennis
+29,309,87,130011,1494.3793103448277,1019.0,26,11818,Politik,_Organe,Regierungsrat BS,,Regierungsrat BS
+30,22,86,62567,727.5232558139535,200.0,25,14358,Politik,Europäische Union,,,Europäische Union
+31,1028,83,195188,2351.6626506024095,1731.0,100,16369,Politik,Abstimmungen & Wahlen,Wahlen BS 2016,Regierungsratswahlen,Regierungsratswahlen
+32,197,80,90596,1132.45,286.5,25,19312,_Länder,Europa,Türkei,,Türkei
+33,538,79,250652,3172.8101265822784,1475.0,24,30947,_Textformen & feste Rubriken,Kommentar,,,Kommentar
+34,291,78,119442,1531.3076923076924,612.0,22,25203,Politik,_Themen,Migration,Asylwesen,Asylwesen
+35,213,78,71976,922.7692307692307,494.5,50,7135,Verkehr,Öffentlicher Verkehr,,,Öffentlicher Verkehr
+36,236,78,105030,1346.5384615384614,709.0,27,10927,Bildung,,,,Bildung
+37,176,77,78204,1015.6363636363636,164.0,23,30947,_Länder,Nordamerika,USA,,USA
+38,157,75,95346,1271.28,832.0,77,14179,Politik,_Organe,Grosser Rat BS,,Grosser Rat BS
+39,595,75,145070,1934.2666666666667,1831.0,22,5362,Sport,Fussball,FC Basel,rotblaulive,rotblaulive
+40,851,75,151411,2018.8133333333333,1070.0,22,13347,Polizei,,,,Polizei
+41,45,74,66741,901.9054054054054,533.5,59,10867,Kino,,,,Kino
+42,219,73,63807,874.068493150685,353.0,37,11979,Umwelt & Natur,,,,Umwelt & Natur
+43,537,70,106236,1517.6571428571428,1114.5,130,7502,_Textformen & feste Rubriken,Interview,,,Interview
+44,234,70,99898,1427.1142857142856,385.5,33,30947,_Länder,Europa,Frankreich,,Frankreich
+45,143,70,165507,2364.385714285714,829.5,37,30947,Medien,,,,Medien
+46,304,68,215262,3165.6176470588234,2000.5,22,25447,Wirtschaft,Gastronomie,,,Gastronomie
+47,145,66,60107,910.7121212121212,490.0,59,6402,Kultur,Film,,,Film
+48,265,65,58291,896.7846153846153,191.0,23,30947,Unglücksfälle und Verbrechen,Terrorismus,,,Terrorismus
+49,579,63,104029,1651.2539682539682,536.0,30,14429,Justiz,,,,Justiz
+50,215,62,67659,1091.274193548387,807.0,119,5719,Kultur,Ausstellung,,,Ausstellung
+51,454,61,90592,1485.1147540983607,903.0,30,9909,Lifestyle,,,,Lifestyle
+52,170,59,87003,1474.6271186440679,870.0,119,7067,Kultur,Konzerte,,,Konzerte
+53,134,56,57671,1029.8392857142858,557.5,61,10537,Kultur,Literatur & Lyrik,,,Literatur & Lyrik
+54,303,56,37881,676.4464285714286,414.5,25,3501,Energie,,,,Energie
+55,520,55,78567,1428.490909090909,903.0,30,8027,Lifestyle,Freizeit,,,Freizeit
+56,767,54,69560,1288.148148148148,795.5,107,11183,Kultur,Festivals,,,Festivals
+57,227,52,85309,1640.5576923076924,155.0,27,30947,_Länder,Naher Osten,Syrien,,Syrien
+58,646,51,104219,2043.5098039215686,866.0,93,25447,Basel,,,,Basel
+59,503,51,61863,1213.0,593.0,26,8874,Gesellschaft,Arbeit,,,Arbeit
+60,297,51,63076,1236.7843137254902,738.0,26,8357,Wirtschaft,Steuern,,,Steuern
+61,1002,49,113856,2323.591836734694,1187.0,35,37126,Politik,Abstimmungen & Wahlen,Abstimmungen 28. Februar 2016,,Abstimmungen 28. Februar 2016
+62,629,49,111401,2273.4897959183672,1386.0,190,19312,_Textformen & feste Rubriken,Porträt,,,Porträt
+63,179,48,112082,2335.0416666666665,1742.0,74,14179,Politik,_Parteien,SVP,,SVP
+64,1029,48,106325,2215.1041666666665,1572.0,309,16369,Politik,Abstimmungen & Wahlen,Wahlen BS 2016,Grossratswahlen,Grossratswahlen
+65,605,47,33855,720.3191489361702,454.0,48,4198,_Textformen & feste Rubriken,Kultwerk,,,Kultwerk
+66,328,47,65112,1385.3617021276596,145.0,30,14179,Politik,_Organe,Nationalrat,,Nationalrat
+67,135,47,54930,1168.723404255319,668.0,61,5573,Kultur,Theater,,,Theater
+68,38,46,36755,799.0217391304348,576.5,151,5573,Veranstaltung,Theater Veranstaltung,,,Theater Veranstaltung
+69,600,46,40782,886.5652173913044,430.0,66,12908,_Textformen & feste Rubriken,Wochenendlich,,,Wochenendlich
+70,175,46,41464,901.3913043478261,544.0,33,4931,Lifestyle,Reisen,,,Reisen
+71,799,46,80496,1749.9130434782608,1174.0,54,6863,Gesellschaft,Wohnen,,,Wohnen
+72,811,45,46926,1042.8,776.0,112,3653,_Textformen & feste Rubriken,Georg Kreis,,,Georg Kreis
+73,198,45,87446,1943.2444444444445,1080.0,48,10989,Gesellschaft,Religion,,,Religion
+74,174,44,49418,1123.1363636363637,317.5,27,25447,_Länder,Europa,Deutschland,,Deutschland
+75,289,43,68669,1596.953488372093,969.0,64,7306,Politik,_Themen,Migration,Integration,Integration
+76,475,42,70065,1668.2142857142858,931.5,25,11979,Wirtschaft,Tourismus,,,Tourismus
+77,819,41,44563,1086.9024390243903,687.0,100,6055,Theater Basel,,,,Theater Basel
+78,1000,41,139201,3395.1463414634145,1411.0,94,38175,Lokales,Fasnacht,Fasnacht Basler 2016,,Fasnacht Basler 2016
+79,6,41,62437,1522.8536585365853,150.0,27,30947,_Länder,Europa,,,Europa
+80,794,41,33086,806.9756097560976,366.0,86,11060,Zeitmaschine,,,,Zeitmaschine
+81,296,40,38873,971.825,303.5,31,14358,_Länder,Europa,Grossbritannien,,Grossbritannien
+82,225,40,28901,722.525,439.0,53,4831,_Länder,Europa,Italien,,Italien
+83,848,39,25687,658.6410256410256,184.0,35,3717,Forschung,,,,Forschung
+84,402,39,71866,1842.7179487179487,1590.0,163,10155,Sport,Fussball,Young Boys Bern,,Young Boys Bern
+85,41,38,42881,1128.4473684210527,812.5,107,4142,Veranstaltung,Musik Veranstaltung,,,Musik Veranstaltung
+86,758,38,32453,854.0263157894736,419.5,30,5621,Digital,Games,,,Games
+87,101,38,38255,1006.7105263157895,372.5,55,11818,Region der Schweiz,Kanton Basel-Landschaft,,,Kanton Basel-Landschaft
+88,1018,37,17881,483.27027027027026,214.0,25,2881,Sport,Olympische Spiele,Olympische Spiele 2016,,Olympische Spiele 2016
+89,772,37,79508,2148.864864864865,1338.0,88,8423,_Quartiere,Kleinbasel,,,Kleinbasel
+90,168,37,19012,513.8378378378378,320.0,29,2275,Umwelt & Natur,Tiere,,,Tiere
+91,770,37,95436,2579.3513513513512,1689.0,194,25447,_Quartiere,,,,_Quartiere
+92,1042,37,82362,2226.0,1752.0,336,16369,Politik,Abstimmungen & Wahlen,Wahlen BS 2016,Wahlumfrage,Wahlumfrage
+93,240,37,56829,1535.918918918919,900.0,33,6627,Lifestyle,Konsum,,,Konsum
+94,418,37,59357,1604.2432432432433,860.0,199,10927,Bildung,Schule,,,Schule
+95,435,36,53983,1499.5277777777778,688.5,42,12608,Lifestyle,Ernährung,,,Ernährung
+96,782,36,62937,1748.25,1515.5,127,8107,Kultur,Museen,Kunstmuseum,,Kunstmuseum
+97,456,36,27062,751.7222222222222,374.0,39,3459,Energie,Atomkraft,,,Atomkraft
+98,1003,35,106660,3047.4285714285716,1621.0,26,37126,Politik,Abstimmungen & Wahlen,Abstimmungen 28. Februar 2016,Durchsetzungsinitiative,Durchsetzungsinitiative
+99,348,35,49020,1400.5714285714287,899.0,82,7387,Bildung,Uni Basel,,,Uni Basel
+100,784,34,56767,1669.6176470588234,1374.5,365,5605,Kultur,Popkultur Basel,,,Popkultur Basel
+101,237,34,41003,1205.9705882352941,986.0,123,4087,Verkehr,Öffentlicher Verkehr,BVB,,BVB
+102,153,33,22836,692.0,237.0,26,8632,Wirtschaft,Banken,,,Banken
+103,181,33,56029,1697.8484848484848,1275.0,114,11060,Politik,_Parteien,SP,,SP
+104,204,32,8780,274.375,134.0,33,2475,Politik,_Organe,Landrat BL,,Landrat BL
+105,278,32,31762,992.5625,791.5,22,3397,Wirtschaft,Pharmaindustrie,,,Pharmaindustrie
+106,249,31,30528,984.7741935483871,296.0,49,8632,Wirtschaft,Finanzwirtschaft,,,Finanzwirtschaft
+107,9,31,41697,1345.0645161290322,1062.0,166,5209,Veranstaltung,,,,Veranstaltung
+108,235,30,31095,1036.5,285.0,53,7135,Verkehr,Öffentlicher Verkehr,SBB,,SBB
+109,42,30,43538,1451.2666666666667,586.5,180,11183,Veranstaltung,Konzert Veranstaltung,,,Konzert Veranstaltung
+110,410,30,41200,1373.3333333333333,802.5,59,4979,Gesellschaft,Überwachung,,,Überwachung
+111,507,30,30072,1002.4,731.0,60,4131,Gesellschaft,Familie,,,Familie
+112,205,30,28815,960.5,359.5,37,7158,_Länder,Europa,Griechenland,,Griechenland
+113,407,30,38420,1280.6666666666667,1288.5,40,3573,Sport,Fussball,Grasshoppers Zürich,,Grasshoppers Zürich
+114,611,30,50800,1693.3333333333333,811.0,83,18345,Medien,Fernsehen,,,Fernsehen
+115,329,30,7023,234.1,121.0,30,1333,Politik,_Organe,Ständerat,,Ständerat
+116,232,29,25412,876.2758620689655,211.0,24,7540,_Länder,Europa,Russland,,Russland
+117,626,29,40680,1402.7586206896551,409.0,56,8987,Unglücksfälle und Verbrechen,Kriminalität,,,Kriminalität
+118,637,29,55878,1926.8275862068965,1412.0,105,14934,Sport,Fussball,Schweizer Cup,,Schweizer Cup
+119,593,29,83051,2863.8275862068967,1971.0,93,11251,_Personen,Baschi Dürr,,,Baschi Dürr
+120,494,28,31783,1135.107142857143,683.5,180,5209,Lokales,Kaserne Basel,,,Kaserne Basel
+121,199,28,82645,2951.6071428571427,1996.5,87,9825,Kultur,Clubszene,,,Clubszene
+122,930,28,33016,1179.142857142857,688.0,223,8822,Kultur,Nachtgang,,,Nachtgang
+123,403,28,29072,1038.2857142857142,874.5,105,2963,Sport,Fussball,FC Zürich,,FC Zürich
+124,1008,28,44677,1595.607142857143,824.0,72,8357,Wirtschaft,Steuern,Unternehmenssteuer-Reform III,,Unternehmenssteuer-Reform III
+125,424,27,4843,179.37037037037038,159.0,22,516,Sport,Ski alpin,,,Ski alpin
+126,142,27,50809,1881.8148148148148,1123.0,296,8754,Lokales,,,,Lokales
+127,1023,27,28129,1041.8148148148148,504.0,53,6429,Politik,Europäische Union,Brexit,,Brexit
+128,588,27,34839,1290.3333333333333,951.0,171,5454,Kultur,Tanz,,,Tanz
+129,735,27,36127,1338.037037037037,700.0,154,14175,Kultur,Kulturförderung,,,Kulturförderung
+130,442,27,38474,1424.962962962963,650.0,31,8874,Wirtschaft,Arbeitsmarkt,,,Arbeitsmarkt
+131,967,27,32018,1185.851851851852,823.0,82,5101,Universität,,,,Universität
+132,171,26,17838,686.0769230769231,547.5,23,2266,Kultur,Fotografie,,,Fotografie
+133,759,26,70651,2717.346153846154,2076.5,236,8423,_Quartiere,St. Johann,,,St. Johann
+134,274,26,40840,1570.7692307692307,596.5,61,12608,Gesellschaft,Medizin,,,Medizin
+135,184,26,35070,1348.8461538461538,1206.5,24,4770,Politik,_Parteien,Grüne,,Grüne
+136,527,26,26722,1027.7692307692307,651.5,224,6957,Kultur,Kulturpolitik,,,Kulturpolitik
+137,1004,25,122358,4894.32,3689.0,579,18345,_Zeitgeschichte,Knackeboul,,,Knackeboul
+138,362,25,90307,3612.28,1103.0,147,21498,Medien,Journalismus,,,Journalismus
+139,625,25,21882,875.28,507.0,52,3355,Gesellschaft,Gleichstellung,,,Gleichstellung
+140,233,25,19345,773.8,232.0,35,4713,Wissenschaft,,,,Wissenschaft
+141,284,24,39252,1635.5,1516.5,268,3573,Sport,Fussball,FC Sion,,FC Sion
+142,755,24,25970,1082.0833333333333,253.0,43,4812,Wirtschaft,Technologie,,,Technologie
+143,472,24,16629,692.875,262.5,37,4713,Wetter,,,,Wetter
+144,775,24,71282,2970.0833333333335,1943.5,60,12394,Gesellschaft,Rassismus,,,Rassismus
+145,917,23,21092,917.0434782608696,380.0,74,5627,Politik,Abstimmungen & Wahlen,Abstimmungen vom 9. Februar 2014,Masseneinwanderungsinitiative,Masseneinwanderungsinitiative
+146,725,23,30202,1313.1304347826087,669.0,22,5032,Digital,Datenschutz,,,Datenschutz
+147,430,23,39436,1714.608695652174,1006.0,289,5719,Kultur,Messen,,,Messen
+148,932,23,26450,1150.0,543.0,65,5559,Politik,Finanzpolitik,,,Finanzpolitik
+149,964,23,46670,2029.1304347826087,1231.0,253,5719,Kultur,Messen,Kunstmessen,,Kunstmessen
+150,800,22,9160,416.3636363636364,190.5,38,2760,Sport,Olympische Spiele,,,Olympische Spiele
+151,931,22,24986,1135.7272727272727,806.0,68,6445,Verkehr,Velo,,,Velo
+152,970,22,30977,1408.0454545454545,1500.5,148,2271,Sport,Fussball,FC Lugano,,FC Lugano
+153,449,22,22611,1027.7727272727273,123.0,37,11979,Umwelt & Natur,Klimawandel,,,Klimawandel
+154,308,22,16438,747.1818181818181,331.0,57,4742,_Länder,Naher Osten,Ägypten,,Ägypten
+155,596,22,26084,1185.6363636363637,405.0,60,10927,Gesellschaft,Kinder & Jugend,,,Kinder & Jugend
+156,211,22,36150,1643.1818181818182,1052.5,424,7474,Kultur,Architektur,,,Architektur
+157,894,21,47422,2258.190476190476,2024.0,239,8107,Kultur,Museen,Kunstmuseum,Kunstmuseum Erweiterungsbau,Kunstmuseum Erweiterungsbau
+158,405,21,40278,1918.0,2049.0,127,4174,Sport,Fussball,FC Luzern,,FC Luzern
+159,495,21,4706,224.0952380952381,169.0,45,863,Unglücksfälle und Verbrechen,,,,Unglücksfälle und Verbrechen
+160,976,21,43677,2079.8571428571427,1073.0,136,18345,Kultur,Jugendkultur,,,Jugendkultur
+161,466,21,40751,1940.5238095238096,854.0,198,8874,Politik,_Themen,Sozialwerke,,Sozialwerke
+162,433,21,21291,1013.8571428571429,258.0,68,4770,Politik,_Themen,Armee,,Armee
+163,221,21,9631,458.6190476190476,172.0,31,3867,_Länder,Naher Osten,,,Naher Osten
+164,618,20,16282,814.1,396.5,68,3908,Politik,_Themen,Krankenkassen,,Krankenkassen
+165,178,20,21581,1079.05,852.0,30,4770,Politik,_Parteien,,,_Parteien
+166,639,20,32463,1623.15,1677.5,139,4087,Sport,Fussball,FC St. Gallen,,FC St. Gallen
+167,903,20,18944,947.2,722.5,190,2756,Kultur,Kunst,Künstlerporträts,,Künstlerporträts
+168,840,20,17620,881.0,351.5,31,3867,Krieg,,,,Krieg
+169,885,20,41190,2059.5,1971.0,275,3829,Sport,Fussball,FC Vaduz,,FC Vaduz
+170,1046,19,40937,2154.5789473684213,942.0,147,15711,_Zeitgeschichte,5 Jahre TagesWoche,,,5 Jahre TagesWoche
+171,847,19,26483,1393.842105263158,826.0,36,10842,Sicherheit,,,,Sicherheit
+172,627,19,8351,439.5263157894737,181.0,66,2536,Wirtschaft,Landwirtschaft,,,Landwirtschaft
+173,604,19,38078,2004.1052631578948,1652.0,272,7943,_Textformen & feste Rubriken,Auch das noch,,,Auch das noch
+174,745,19,14554,766.0,595.0,252,2816,_Firmen,Messe Basel,,,Messe Basel
+175,180,19,28224,1485.4736842105262,1412.0,79,4770,Politik,_Parteien,FDP,,FDP
+176,915,19,11931,627.9473684210526,297.0,50,2645,Sport,Fussball,Fifa,,Fifa
+177,763,19,45107,2374.0526315789475,2045.0,399,5719,Kultur,Messen,Art Basel,,Art Basel
+178,530,18,8891,493.94444444444446,380.5,68,1472,Lokales,Zoo Basel,,,Zoo Basel
+179,148,18,35179,1954.388888888889,1130.0,49,7474,_Firmen,Roche,,,Roche
+180,474,18,40326,2240.3333333333335,1784.5,90,6994,Politik,_Themen,Sozialwesen,,Sozialwesen
+181,1036,18,20843,1157.9444444444443,652.5,184,6817,Sport,Fussball,WM 2018,,WM 2018
+182,245,18,18438,1024.3333333333333,515.0,45,4712,_Länder,Europa,Serbien,,Serbien
+183,465,18,25660,1425.5555555555557,596.0,30,7540,Politik,_Themen,Gesundheitswesen,,Gesundheitswesen
+184,39,18,18190,1010.5555555555555,781.5,278,3524,Veranstaltung,Ausstellung Veranstaltung,,,Ausstellung Veranstaltung
+185,476,17,23041,1355.3529411764705,989.0,104,4238,Lokales,Fasnacht,,,Fasnacht
+186,230,17,34759,2044.6470588235295,948.0,161,7806,Kultur,Design,,,Design
+187,888,17,3496,205.64705882352942,177.0,60,554,Sport,Tennis,Swiss Indoors,,Swiss Indoors
+188,220,17,22429,1319.3529411764705,1079.0,226,3957,Sport,Boxen,,,Boxen
+189,974,17,30506,1794.4705882352941,1142.0,580,5719,Kultur,Kunstmarkt,,,Kunstmarkt
+190,1041,17,21673,1274.8823529411766,790.0,236,4334,_Textformen & feste Rubriken,Supersach,,,Supersach
+191,416,17,3637,213.94117647058823,159.0,35,641,_Länder,Europa,Österreich,,Österreich
+192,327,17,15579,916.4117647058823,187.0,36,5484,Politik,_Organe,Regierungsrat BL,,Regierungsrat BL
+193,364,16,28319,1769.9375,1512.0,347,4457,_Personen,Guy Morin,,,Guy Morin
+194,201,16,31875,1992.1875,1634.5,188,9418,Gesellschaft,Drogen,,,Drogen
+195,406,16,22619,1413.6875,1307.5,385,3103,Sport,Fussball,FC Thun,,FC Thun
+196,575,15,8865,591.0,145.0,35,4256,Naturereignisse,,,,Naturereignisse
+197,943,15,11875,791.6666666666666,674.0,114,2423,Kultur,Kulturgeschichte,,,Kulturgeschichte
+198,742,15,46027,3068.4666666666667,1224.0,425,13347,Sport,Fanverhalten,,,Fanverhalten
+199,961,15,10062,670.8,361.0,22,2833,Internet,,,,Internet
+200,282,15,16354,1090.2666666666667,750.0,68,5227,Gesellschaft,Menschenrechte,,,Menschenrechte
+201,907,15,8912,594.1333333333333,193.0,24,2536,_Firmen,Syngenta,,,Syngenta
+202,151,15,4801,320.06666666666666,292.0,69,1336,_Personen,Roger Federer,,,Roger Federer
+203,292,15,18066,1204.4,881.0,46,4827,Politik,_Themen,Migration,Einbürgerung,Einbürgerung
+204,822,15,24020,1601.3333333333333,1293.0,274,4040,Stadtleben,,,,Stadtleben
+205,185,15,24911,1660.7333333333333,1080.0,30,4827,Politik,_Parteien,CVP,,CVP
+206,1037,15,18924,1261.6,599.0,184,6817,Sport,Fussball,Schweizerischer Fussball-Verband SFV,,Schweizerischer Fussball-Verband SFV
+207,458,14,23000,1642.857142857143,422.0,41,11979,Naturereignisse,Unwetter,,,Unwetter
+208,357,14,29642,2117.285714285714,991.0,147,15711,Medien,TagesWoche,,,TagesWoche
+209,564,14,9943,710.2142857142857,375.5,25,3459,Energie,Erneuerbare Energien,,,Erneuerbare Energien
+210,554,14,14345,1024.642857142857,535.0,49,3899,Wirtschaft,Detailhandel,,,Detailhandel
+211,773,14,20837,1488.357142857143,980.5,142,4040,_Quartiere,Innenstadt,,,Innenstadt
+212,212,14,4248,303.42857142857144,145.5,49,919,Sport,Eishockey,,,Eishockey
+213,877,14,18555,1325.357142857143,969.0,82,3908,Lokales,Universitätsspital Basel,,,Universitätsspital Basel
+214,657,14,46714,3336.714285714286,1886.5,347,21122,Restaurant: Küche,,,,Restaurant: Küche
+215,214,14,11923,851.6428571428571,536.0,123,2951,Verkehr,Öffentlicher Verkehr,TNW,,TNW
+216,320,14,21207,1514.7857142857142,449.0,107,14358,_Länder,Europa,Polen,,Polen
+217,421,14,5590,399.2857142857143,325.0,25,1307,Sport,Leichtathletik,,,Leichtathletik
+218,1025,13,25125,1932.6923076923076,1843.0,55,5621,Lifestyle,Reisen,Sommerserie: Besuch in Basel,,Sommerserie: Besuch in Basel
+219,789,13,39712,3054.769230769231,2885.0,856,6862,Wirtschaft,Immobilien,,,Immobilien
+220,52,13,12711,977.7692307692307,681.0,318,3654,Kino,Dokumentation Film,,,Dokumentation Film
+221,528,13,7516,578.1538461538462,420.0,56,1356,Umwelt & Natur,Abfall,,,Abfall
+222,283,13,15708,1208.3076923076924,876.0,22,3980,Gesellschaft,Humor,,,Humor
+223,53,13,12340,949.2307692307693,487.0,321,4712,Kino,Drama Film,,,Drama Film
+224,628,13,11593,891.7692307692307,529.0,55,3504,_Textformen & feste Rubriken,Editorial,,,Editorial
+225,863,13,14647,1126.6923076923076,587.0,348,4873,Kultur,Performances,,,Performances
+226,1014,13,8871,682.3846153846154,454.0,82,1670,Parkplätze,,,,Parkplätze
+227,875,12,25267,2105.5833333333335,1378.0,409,5627,Alois K. Hürlimann,,,,Alois K. Hürlimann
+228,286,12,9306,775.5,411.0,50,2951,Verkehr,Öffentlicher Verkehr,BLT,,BLT
+229,351,12,22648,1887.3333333333333,463.0,24,8495,Digital,Facebook,,,Facebook
+230,505,12,10058,838.1666666666666,218.0,35,6330,Verkehr,Flugverkehr,,,Flugverkehr
+231,239,12,13142,1095.1666666666667,774.5,24,5141,Wirtschaft,Globalisierung,,,Globalisierung
+232,321,12,2960,246.66666666666666,199.5,78,653,_Länder,Europa,Ukraine,,Ukraine
+233,953,12,16872,1406.0,719.5,61,8301,Gesellschaft,Nachruf,,,Nachruf
+234,555,12,22186,1848.8333333333333,731.0,118,10927,Kultur,Kinder,,,Kinder
+235,485,12,6932,577.6666666666666,399.0,36,2379,Sport,Schach,,,Schach
+236,873,12,24662,2055.1666666666665,822.0,114,11251,Digital,Apps,,,Apps
+237,887,11,24726,2247.818181818182,1006.0,206,14175,Kultur,Kulturpreise,,,Kulturpreise
+238,4,11,3267,297.0,220.0,122,642,Sport,Handball,,,Handball
+239,1015,11,23487,2135.181818181818,1786.0,26,8874,Grundeinkommen,,,,Grundeinkommen
+240,992,11,14938,1358.0,773.0,199,5562,Partnerschaft BS_BL,,,,Partnerschaft BS_BL
+241,417,11,5172,470.1818181818182,292.0,87,1356,Umwelt & Natur,Tierschutz,,,Tierschutz
+242,820,11,24704,2245.818181818182,1324.0,603,7182,Rhein,,,,Rhein
+243,147,11,15564,1414.909090909091,1370.0,127,4216,_Firmen,Novartis,,,Novartis
+244,962,11,29361,2669.181818181818,1304.0,114,9418,Verbrechen,,,,Verbrechen
+245,831,11,24207,2200.6363636363635,2175.0,669,4859,Zwischennutzung,,,,Zwischennutzung
+246,1010,11,10203,927.5454545454545,240.0,23,7997,_Zeitgeschichte,Panama Papers,,,Panama Papers
+247,306,11,8459,769.0,367.0,55,3346,Gesellschaft,Altersvorsorge,,,Altersvorsorge
+248,904,11,11298,1027.090909090909,401.0,37,3654,Region,,,,Region
+249,246,11,4409,400.8181818181818,411.0,41,1010,_Länder,Europa,Mazedonien,,Mazedonien
+250,846,11,10168,924.3636363636364,771.0,37,3386,Kirche,,,,Kirche
+251,634,11,55773,5070.272727272727,1230.0,413,18345,Medien,Soziale Medien,,,Soziale Medien
+252,587,11,4683,425.72727272727275,272.0,30,1327,Lifestyle,Heimelektronik,,,Heimelektronik
+253,878,11,13288,1208.0,1136.0,424,2345,Verkehr,Rheinhafen,,,Rheinhafen
+254,281,10,4018,401.8,352.0,33,920,_Länder,Europa,Spanien,,Spanien
+255,916,10,7961,796.1,652.5,191,2604,Kultur,Museen,Museumsnacht,,Museumsnacht
+256,739,10,36186,3618.6,1848.5,424,14175,Kultur,Kreativwirtschaft,,,Kreativwirtschaft
+257,322,10,31365,3136.5,371.0,36,27387,_Länder,Asien,Irak,,Irak
+258,924,10,7336,733.6,548.0,277,2751,Lifestyle,Ernährung,Rezept,,Rezept
+259,993,10,6003,600.3,365.5,50,2142,_Zeitgeschichte,#ParisAttacks,,,#ParisAttacks
+260,622,10,26745,2674.5,2173.0,377,7806,Lifestyle,Mode,,,Mode
+261,363,10,22051,2205.1,1028.5,609,6863,_Personen,Eva Herzog,,,Eva Herzog
+262,539,10,20802,2080.2,930.0,127,11818,_Textformen & feste Rubriken,Reportagen,,,Reportagen
+263,247,10,24318,2431.8,1218.5,57,11818,Bildung,Berufslehre,,,Berufslehre
+264,314,9,4538,504.22222222222223,270.0,38,2027,_Länder,Europa,Belgien,,Belgien
+265,431,9,3696,410.6666666666667,113.0,27,2839,Sport,Pferdesport,,,Pferdesport
+266,518,9,3936,437.3333333333333,124.0,22,2536,_Länder,Südamerika,Brasilien,,Brasilien
+267,365,9,12478,1386.4444444444443,1092.0,748,3495,_Personen,Hans-Peter Wessels,,,Hans-Peter Wessels
+268,305,9,3389,376.55555555555554,182.0,43,1153,Politik,Gewerkschaften,,,Gewerkschaften
+269,508,9,5950,661.1111111111111,566.0,35,1512,Lokales,EuroAirport,,,EuroAirport
+270,413,9,4742,526.8888888888889,501.0,170,1070,_Feiertage,Weihnachten,,,Weihnachten
+271,369,9,9263,1029.2222222222222,792.0,504,2238,_Personen,Christoph Brutschin,,,Christoph Brutschin
+272,218,9,5576,619.5555555555555,435.0,193,1627,_Länder,Asien,China,,China
+273,501,9,11172,1241.3333333333333,919.0,110,3689,Gesellschaft,Sexualität,,,Sexualität
+274,491,9,40262,4473.555555555556,1921.0,42,25447,_Jahreszeiten,Sommer,,,Sommer
+275,217,9,3073,341.44444444444446,272.0,35,1097,Naturereignisse,Erdbeben,,,Erdbeben
+276,900,9,15589,1732.111111111111,1582.0,676,2849,Lokales,Stadtentwicklung,Hafenareal,,Hafenareal
+277,420,9,18656,2072.8888888888887,418.0,54,14358,_Länder,Europa,Ungarn,,Ungarn
+278,842,9,6994,777.1111111111111,412.0,158,2000,Sprache,,,,Sprache
+279,1032,9,4764,529.3333333333334,221.0,132,2408,Sport,Schwingen,,,Schwingen
+280,358,9,40580,4508.888888888889,1793.0,528,21498,Medien,Basler Zeitung,,,Basler Zeitung
+281,223,9,6386,709.5555555555555,144.0,28,4665,_Länder,Asien,Iran,,Iran
+282,958,9,3710,412.22222222222223,196.0,27,1819,Politik,Finanzpolitik,Finanzen BL,,Finanzen BL
+283,360,9,15035,1670.5555555555557,1108.0,528,4471,Medien,Telebasel,,,Telebasel
+284,447,9,5556,617.3333333333334,171.0,24,2179,Wirtschaft,Telekommunikation,,,Telekommunikation
+285,561,9,5445,605.0,357.0,31,2581,_Zeitgeschichte,,,,_Zeitgeschichte
+286,647,9,8556,950.6666666666666,887.0,136,2016,Strassen,,,,Strassen
+287,544,9,12042,1338.0,859.0,55,3807,Politik,_Themen,Mieten,,Mieten
+288,957,9,8667,963.0,587.0,80,2524,Wirtschaft,Einkaufstourismus,,,Einkaufstourismus
+289,261,9,11156,1239.5555555555557,411.0,33,5227,Unglücksfälle und Verbrechen,Wirtschaftskriminalität,,,Wirtschaftskriminalität
+290,437,8,2416,302.0,118.5,56,790,Umwelt & Natur,Altlasten,,,Altlasten
+291,40,8,16071,2008.875,1324.5,461,6788,Veranstaltung,Party Veranstaltung,,,Party Veranstaltung
+292,496,8,8527,1065.875,535.0,145,3946,Verkehr,Schifffahrt,,,Schifffahrt
+293,608,8,13533,1691.625,1404.5,171,5019,Politik,_Parteien,LDP,,LDP
+294,59,8,7340,917.5,582.5,369,2165,Kino,Komödie Film,,,Komödie Film
+295,585,8,1975,246.875,138.0,69,1038,Sport,Badminton,,,Badminton
+296,243,8,5118,639.75,438.0,45,2211,_Länder,Europa,Bosnien-Herzegowina,,Bosnien-Herzegowina
+297,899,8,22427,2803.375,1280.5,307,6685,Lokales,Stadtentwicklung,Roche-Areal,,Roche-Areal
+298,25,8,20588,2573.5,123.5,68,17861,_Länder,Nordamerika,,,Nordamerika
+299,959,8,17636,2204.5,1645.0,253,5719,Kultur,Messen,Liste,,Liste
+300,760,8,14502,1812.75,1340.0,88,6596,Gesellschaft,Prostitution,,,Prostitution
+301,827,8,9360,1170.0,1075.5,270,3117,Kantonsverwaltung,,,,Kantonsverwaltung
+302,939,8,9722,1215.25,1023.0,164,2649,Energie,Atomkraft,Fessenheim,,Fessenheim
+303,592,8,2165,270.625,228.0,73,536,Sport,Curling,,,Curling
+304,955,8,2601,325.125,187.5,86,1080,_Länder,Naher Osten,Saudi Arabien,,Saudi Arabien
+305,337,8,11188,1398.5,715.5,82,3701,Bildung,Universitäten,,,Universitäten
+306,210,8,12946,1618.25,1644.5,458,2770,Sport,Kampfsport,,,Kampfsport
+307,231,8,2754,344.25,176.5,112,1249,Wirtschaft,Börse,,,Börse
+308,968,7,16802,2400.285714285714,2243.0,375,5209,Lokales,Stadtentwicklung,Basler Plätze,,Basler Plätze
+309,408,7,14864,2123.4285714285716,2260.0,1561,2738,Sport,Fussball,FC Lausanne-Sport,,FC Lausanne-Sport
+310,272,7,22069,3152.714285714286,1952.0,157,10989,Gesellschaft,Bewegungen,,,Bewegungen
+311,471,7,6380,911.4285714285714,370.0,99,3346,Politik,_Themen,Sozialwerke,Pensionskasse,Pensionskasse
+312,956,7,8726,1246.5714285714287,720.0,231,4430,Kultur,Kunst,Street Art,,Street Art
+313,483,7,5869,838.4285714285714,157.0,26,4690,Politik,Schweizerische Nationalbank,,,Schweizerische Nationalbank
+314,139,7,7315,1045.0,534.0,41,3717,_Länder,Südamerika,,,Südamerika
+315,936,7,10375,1482.142857142857,557.0,154,4334,Der Konsument von Morgen,,,,Der Konsument von Morgen
+316,727,7,8697,1242.4285714285713,522.0,85,4712,_Länder,Europa,Kroatien,,Kroatien
+317,997,7,7200,1028.5714285714287,957.0,42,3255,_Zeitgeschichte,Wunschkonzert,,,Wunschkonzert
+318,598,7,12490,1784.2857142857142,1041.0,356,4234,Politik,_Themen,Arbeitslosigkeit,,Arbeitslosigkeit
+319,125,7,13263,1894.7142857142858,286.0,129,7135,Region der Schweiz,Kanton Zürich,,,Kanton Zürich
+320,643,7,7869,1124.142857142857,942.0,720,1891,Kultur,Galerien,,,Galerien
+321,898,7,20096,2870.8571428571427,1330.0,1054,7474,Lokales,Stadtentwicklung,Roche-Turm,,Roche-Turm
+322,886,7,5669,809.8571428571429,820.0,156,2039,_Quartiere,Dreispitz,,,Dreispitz
+323,649,7,4216,602.2857142857143,566.0,139,1210,Riehen,,,,Riehen
+324,645,7,8229,1175.5714285714287,1181.0,615,2022,Gewerbe,,,,Gewerbe
+325,206,7,2455,350.7142857142857,345.0,28,690,Sport,Volleyball,,,Volleyball
+326,1026,7,5733,819.0,700.0,480,1184,Kultur,Museen,Skurrile Museen,,Skurrile Museen
+327,914,7,818,116.85714285714286,113.0,27,253,Sport,Pferdesport,CSI Basel,,CSI Basel
+328,832,7,7582,1083.142857142857,1211.0,152,1676,Wissen,,,,Wissen
+329,368,7,12328,1761.142857142857,1551.0,484,3557,_Personen,Christoph Eymann,,,Christoph Eymann
+330,654,6,3991,665.1666666666666,362.5,133,2365,Kultur,Archäologie,,,Archäologie
+331,734,6,4173,695.5,579.5,166,1322,Lokales,Herbstmesse,,,Herbstmesse
+332,264,6,10623,1770.5,1398.5,315,3432,Unglücksfälle und Verbrechen,Organisierte Kriminalität,,,Organisierte Kriminalität
+333,324,6,32292,5382.0,353.5,161,27387,_Länder,Naher Osten,Libanon,,Libanon
+334,5,6,6247,1041.1666666666667,254.0,75,5141,_Länder,,,,_Länder
+335,343,6,10402,1733.6666666666667,1186.0,195,4131,Gesellschaft,Psychologie,,,Psychologie
+336,438,6,3699,616.5,533.0,56,1597,Umwelt & Natur,Giftmüll,,,Giftmüll
+337,137,6,7981,1330.1666666666667,761.0,35,5227,_Länder,Asien,,,Asien
+338,884,6,12739,2123.1666666666665,1021.0,530,5712,Medien,Netflix,,,Netflix
+339,559,6,7868,1311.3333333333333,767.5,47,4457,Politik,_Organe,,,_Organe
+340,502,6,10339,1723.1666666666667,1194.0,220,4695,Gesellschaft,Sexismus,,,Sexismus
+341,557,6,8079,1346.5,768.5,75,4824,_Feiertage,1. August,,,1. August
+342,506,6,2555,425.8333333333333,236.0,48,1435,_Länder,Südamerika,Kuba,,Kuba
+343,510,6,2913,485.5,106.0,33,2327,Politik,Internationale Organisationen,UNO,,UNO
+344,1016,6,9519,1586.5,1593.5,941,2106,Erlenmatt,,,,Erlenmatt
+345,532,6,15992,2665.3333333333335,889.0,370,11979,Wirtschaft,Rohstoffhandel,,,Rohstoffhandel
+346,545,6,7431,1238.5,812.0,156,3807,Politik,_Themen,Raumplanung,,Raumplanung
+347,546,6,7160,1193.3333333333333,920.5,266,3206,Kultur,Comic,,,Comic
+348,991,6,6262,1043.6666666666667,790.0,273,2098,Kultur,Literatur & Lyrik,BuchBasel,,BuchBasel
+349,553,6,2072,345.3333333333333,187.5,69,1021,Unglücksfälle und Verbrechen,Cyberkriminalität,,,Cyberkriminalität
+350,1043,6,10824,1804.0,1374.5,360,4740,_Textformen & feste Rubriken,Wahnsinn Alltag,,,Wahnsinn Alltag
+351,158,6,1243,207.16666666666666,152.5,55,462,Politik,_Organe,Bundesrat,,Bundesrat
+352,453,6,9603,1600.5,886.0,515,5573,Kultur,Oper,,,Oper
+353,280,6,7113,1185.5,963.5,80,3689,Gesellschaft,Homosexualität,,,Homosexualität
+354,540,6,8344,1390.6666666666667,994.0,594,3394,Gesellschaft,Psychiatrie,,,Psychiatrie
+355,359,5,11930,2386.0,528.0,112,9521,Medien,SRF,,,SRF
+356,300,5,3267,653.4,603.0,85,1327,_Firmen,Google,,,Google
+357,361,5,6209,1241.8,1249.0,528,1979,Medien,Basellandschaftliche Zeitung,,,Basellandschaftliche Zeitung
+358,334,5,3770,754.0,138.0,43,2043,_Personen,Johann Schneider Ammann,,,Johann Schneider Ammann
+359,27,5,5089,1017.8,385.0,76,3868,Sport,Basketball,,,Basketball
+360,415,5,21606,4321.2,787.0,114,15648,Wirtschaft,Musikindustrie,,,Musikindustrie
+361,154,5,6882,1376.4,1258.0,744,2296,Wirtschaft,KMU,,,KMU
+362,963,5,5550,1110.0,391.0,204,4189,Sport,Tippspiel,,,Tippspiel
+363,473,5,7213,1442.6,890.0,147,2812,_Firmen,Post,,,Post
+364,150,5,445,89.0,71.0,52,138,_Firmen,Credit Suisse,,,Credit Suisse
+365,740,5,28915,5783.0,482.0,70,27387,_Länder,Naher Osten,Palästina,,Palästina
+366,732,5,3071,614.2,483.0,237,1031,_Firmen,BKB,,,BKB
+367,138,5,2637,527.4,254.0,102,1188,_Länder,Afrika,,,Afrika
+368,709,5,3150,630.0,429.0,166,1517,Verkehr,U-Abo,,,U-Abo
+369,862,5,13962,2792.4,2761.0,487,5719,Kultur,Offspaces,,,Offspaces
+370,771,5,26393,5278.6,2266.0,236,21122,_Quartiere,Gundeli,,,Gundeli
+371,58,5,2242,448.4,309.0,223,1073,Kino,Horror Film,,,Horror Film
+372,489,5,3187,637.4,917.0,80,1046,_Jahreszeiten,Winter,,,Winter
+373,480,5,375,75.0,70.0,28,150,_Länder,Asien,Nordkorea,,Nordkorea
+374,549,5,8461,1692.2,2028.0,62,3899,Wirtschaft,Modebranche,,,Modebranche
+375,423,5,492,98.4,86.0,71,159,Sport,Ski nordisch,,,Ski nordisch
+376,1044,5,15674,3134.8,2284.0,728,8113,Erklär-Bär,,,,Erklär-Bär
+377,451,5,28162,5632.4,5034.0,331,14179,_Personen,Christoph Blocher,,,Christoph Blocher
+378,468,5,5278,1055.6,370.0,212,3346,Politik,_Themen,Sozialwerke,AHV,AHV
+379,443,5,3443,688.6,235.0,123,2193,Sport,Radsport,,,Radsport
+380,613,4,702,175.5,181.0,63,277,Sport,Rudern,,,Rudern
+381,445,4,1798,449.5,374.5,102,947,_Firmen,Swisscom,,,Swisscom
+382,1009,4,1749,437.25,449.5,300,550,Sport,Unihockey,,,Unihockey
+383,298,4,1068,267.0,211.5,89,556,_Länder,Afrika,Libyen,,Libyen
+384,1031,4,2322,580.5,629.0,63,1001,Altersheim,,,,Altersheim
+385,693,4,17367,4341.75,3907.5,2120,7432,Restaurant: Ambiente,,,,Restaurant: Ambiente
+386,825,4,5549,1387.25,1390.0,753,2016,Baudepartement,,,,Baudepartement
+387,809,4,10525,2631.25,718.5,101,8987,Politik,Abstimmungen & Wahlen,Einwanderungsinitiativen,,Einwanderungsinitiativen
+388,183,4,3549,887.25,812.5,106,1818,Politik,_Parteien,GLP,,GLP
+389,803,4,5222,1305.5,1344.5,236,2297,_Quartiere,Breite,,,Breite
+390,44,4,6282,1570.5,1590.5,262,2839,Veranstaltung,Andere Veranstaltung,,,Andere Veranstaltung
+391,793,4,20359,5089.75,888.5,237,18345,Medien,Watson,,,Watson
+392,146,4,7300,1825.0,1338.5,85,4538,_Firmen,,,,_Firmen
+393,310,4,3242,810.5,821.0,340,1260,_Firmen,Migros,,,Migros
+394,871,4,6745,1686.25,1513.0,870,2849,Lokales,Klybeckquai,,,Klybeckquai
+395,1022,4,5750,1437.5,1383.0,974,2010,Kultur,Kunst,Kunst am Bau,,Kunst am Bau
+396,68,4,1868,467.0,419.0,182,848,Kino,Thriller Film,,,Thriller Film
+397,49,4,1916,479.0,462.5,452,539,Kino,Animation Film,,,Animation Film
+398,566,4,1298,324.5,207.5,51,832,Politik,Internationale Organisationen,Nato,,Nato
+399,556,4,2137,534.25,555.5,102,924,_Feiertage,Ostern,,,Ostern
+400,277,4,2588,647.0,656.5,480,795,Gesellschaft,Hooliganismus,,,Hooliganismus
+401,890,4,1443,360.75,274.5,144,750,Gregor Gysi,,,,Gregor Gysi
+402,541,4,1265,316.25,166.0,101,832,_Personen,Wladimir Putin,,,Wladimir Putin
+403,525,4,5951,1487.75,1386.5,998,2180,_Personen,Mirjam Ballmer,,,Mirjam Ballmer
+404,47,4,2036,509.0,426.0,282,902,Kino,Action Film,,,Action Film
+405,140,3,293,97.66666666666667,118.0,41,134,_Länder,Australien/Ozeanien,,,Australien/Ozeanien
+406,242,3,1146,382.0,508.0,83,555,_Länder,Europa,Kosovo,,Kosovo
+407,57,3,1485,495.0,558.0,173,754,Kino,Historischer Film,,,Historischer Film
+408,35,3,35320,11773.333333333334,8788.0,5034,21498,_Personen,Markus Somm,,,Markus Somm
+409,63,3,2330,776.6666666666666,706.0,435,1189,Kino,Musikfilm Film,,,Musikfilm Film
+410,117,3,784,261.3333333333333,166.0,62,556,Region der Schweiz,Kanton Solothurn,,,Kanton Solothurn
+411,66,3,1121,373.6666666666667,369.0,269,483,Kino,Sci-Fi Film,,,Sci-Fi Film
+412,67,3,1490,496.6666666666667,458.0,226,806,Kino,Sport Film,,,Sport Film
+413,105,3,1133,377.6666666666667,311.0,221,601,Region der Schweiz,Kanton Bern,,,Kanton Bern
+414,200,3,3130,1043.3333333333333,1081.0,143,1906,_Länder,Asien,Thailand,,Thailand
+415,250,3,2593,864.3333333333334,242.0,79,2272,Gesellschaft,Rauchen,,,Rauchen
+416,222,3,1030,343.3333333333333,318.0,54,658,_Länder,Naher Osten,Israel,,Israel
+417,244,3,195,65.0,27.0,22,146,_Länder,Europa,Slowenien,,Slowenien
+418,500,3,2444,814.6666666666666,385.0,76,1983,Gesellschaft,Jugendschutz,,,Jugendschutz
+419,422,3,17488,5829.333333333333,1249.0,528,15711,Medien,NZZ,,,NZZ
+420,1020,3,4987,1662.3333333333333,1885.0,26,3076,_Zeitgeschichte,Überzeit-Analyse,,,Überzeit-Analyse
+421,470,3,7950,2650.0,3346.0,370,4234,Politik,_Themen,Sozialwerke,Arbeitslosenversicherung,Arbeitslosenversicherung
+422,524,3,327,109.0,103.0,75,149,Sport,Doping,,,Doping
+423,401,3,8565,2855.0,2613.0,528,5424,Medien,Weltwoche,,,Weltwoche
+424,995,3,241,80.33333333333333,65.0,57,119,_Länder,Europa,Zypern,,Zypern
+425,934,3,6959,2319.6666666666665,1820.0,989,4150,Wochenthema,Wochenthema Clubszene,,,Wochenthema Clubszene
+426,412,3,2708,902.6666666666666,1070.0,519,1119,_Feiertage,,,,_Feiertage
+427,499,3,8099,2699.6666666666665,2699.0,654,4746,Unglücksfälle und Verbrechen,Brand,,,Brand
+428,710,3,2274,758.0,332.0,147,1795,Medien,TagesWoche FAQ,,,TagesWoche FAQ
+429,726,3,1687,562.3333333333334,508.0,399,780,_Länder,Europa,Albanien,,Albanien
+430,982,3,1444,481.3333333333333,585.0,206,653,_Länder,Europa,Belarus,Weissrussland,Belarus / Weissrussland
+431,440,3,23863,7954.333333333333,6862.0,6012,10989,Gesellschaft,Sekten,,,Sekten
+432,722,3,3128,1042.6666666666667,1414.0,196,1518,_Länder,Europa,Vatikan,,Vatikan
+433,971,3,1734,578.0,410.0,57,1267,Mexiko,,,,Mexiko
+434,714,3,2498,832.6666666666666,990.0,513,995,_Länder,Asien,Indien,,Indien
+435,969,3,788,262.6666666666667,229.0,148,411,_Länder,Europa,Rumänien,,Rumänien
+436,373,3,19341,6447.0,2991.0,2171,14179,_Personen,Sebastian Frehner,,,Sebastian Frehner
+437,467,3,4644,1548.0,212.0,198,4234,Politik,_Themen,Sozialwerke,Invalidenversicherung,Invalidenversicherung
+438,352,3,9098,3032.6666666666665,413.0,190,8495,Digital,Twitter,,,Twitter
+439,790,3,5286,1762.0,1635.0,1063,2588,_Textformen & feste Rubriken,TagesWoche Mittendrin,,,TagesWoche Mittendrin
+440,828,3,1452,484.0,164.0,135,1153,Streik,,,,Streik
+441,612,3,1363,454.3333333333333,587.0,144,632,_Zeitgeschichte,Eurokrise,,,Eurokrise
+442,1045,3,3736,1245.3333333333333,1293.0,508,1935,Montenegro,,,,Montenegro
+443,1038,3,6821,2273.6666666666665,477.0,74,6270,Sport,Fussball,Uefa,,Uefa
+444,845,3,2508,836.0,711.0,504,1293,Esskultur,,,,Esskultur
+445,804,3,2314,771.3333333333334,790.0,443,1081,_Quartiere,Breite,Autobahn,,Autobahn
+446,543,3,17488,5829.333333333333,1249.0,528,15711,Medien,20 Minuten,,,20 Minuten
+447,336,3,1213,404.3333333333333,404.0,64,745,_Personen,Angela Merkel,,,Angela Merkel
+448,619,3,1740,580.0,522.0,148,1070,_Länder,Europa,Bulgarien,,Bulgarien
+449,623,3,2878,959.3333333333334,525.0,492,1861,Kultur,Poetry Slam,,,Poetry Slam
+450,339,3,3287,1095.6666666666667,1260.0,388,1639,_Firmen,Coop,,,Coop
+451,349,3,2875,958.3333333333334,820.0,751,1304,Bildung,FHNW,,,FHNW
+452,778,3,2781,927.0,1220.0,236,1325,_Quartiere,Iselin,,,Iselin
+453,921,2,2736,1368.0,1368.0,34,2702,Wochenthema,,,,Wochenthema
+454,614,2,223,111.5,111.5,73,150,Sport,Fechten,,,Fechten
+455,55,2,751,375.5,375.5,223,528,Kino,Fantasy Film,,,Fantasy Film
+456,54,2,913,456.5,456.5,452,461,Kino,Familienfilm Film,,,Familienfilm Film
+457,64,2,678,339.0,339.0,309,369,Kino,Mystery Film,,,Mystery Film
+458,189,2,5381,2690.5,2690.5,324,5057,_Zeitgeschichte,Schweizerhalle-Brand,,,Schweizerhalle-Brand
+459,665,2,2588,1294.0,1294.0,1079,1509,Restaurant: Küche,Küche: Gourmet,,,Küche: Gourmet
+460,937,2,506,253.0,253.0,79,427,Wochenthema,Wochenthema Frankenstärke,,,Wochenthema Frankenstärke
+461,630,2,5890,2945.0,2945.0,1689,4201,_Textformen & feste Rubriken,Quartierporträt,,,Quartierporträt
+462,658,2,3687,1843.5,1843.5,512,3175,Restaurant: Küche,Küche: Italienisch,,,Küche: Italienisch
+463,736,2,1610,805.0,805.0,252,1358,_Länder,Mittelamerika,,,Mittelamerika
+464,182,2,1939,969.5,969.5,925,1014,Politik,_Parteien,BDP,,BDP
+465,918,2,758,379.0,379.0,171,587,Wirtschaft,Finanzwirtschaft,Euro-Mindestkurs,,Euro-Mindestkurs
+466,876,2,2416,1208.0,1208.0,399,2017,Kultur,Kunst,Kunst am Wegrand,,Kunst am Wegrand
+467,123,2,568,284.0,284.0,232,336,Region der Schweiz,Kanton Wallis,,,Kanton Wallis
+468,808,2,3155,1577.5,1577.5,1172,1983,Gesellschaft,Generation Slash,,,Generation Slash
+469,119,2,189,94.5,94.5,44,145,Region der Schweiz,Kanton Tessin,,,Kanton Tessin
+470,118,2,859,429.5,429.5,405,454,Region der Schweiz,Kanton St. Gallen,,,Kanton St. Gallen
+471,779,2,1340,670.0,670.0,173,1167,Politik,_Themen,Armee,Wehrpflicht,Wehrpflicht
+472,776,2,3843,1921.5,1921.5,236,3607,_Quartiere,Bruderholz,,,Bruderholz
+473,769,2,60,30.0,30.0,25,35,Sport,Behindertensport,,,Behindertensport
+474,768,2,25901,12950.5,12950.5,454,25447,_Textformen & feste Rubriken,Ausflugstipps,,,Ausflugstipps
+475,109,2,665,332.5,332.5,39,626,Region der Schweiz,Kanton Graubünden,,,Kanton Graubünden
+476,107,2,195,97.5,97.5,63,132,Region der Schweiz,Kanton Genf,,,Kanton Genf
+477,173,2,4711,2355.5,2355.5,46,4665,_Länder,Asien,Afghanistan,,Afghanistan
+478,905,2,1567,783.5,783.5,560,1007,Region,Pratteln,,,Pratteln
+479,99,2,1460,730.0,730.0,232,1228,Region der Schweiz,,,,Region der Schweiz
+480,912,2,630,315.0,315.0,108,522,_Länder,Europa,Slowakei,,Slowakei
+481,599,2,2512,1256.0,1256.0,1072,1440,Politik,_Parteien,Piratenpartei,,Piratenpartei
+482,728,2,1125,562.5,562.5,123,1002,Sport,Triathlon,,,Triathlon
+483,609,2,2804,1402.0,1402.0,484,2320,Sport,Fussball,Euro 2012,,Euro 2012
+484,843,2,3628,1814.0,1814.0,1736,1892,Linke,,,,Linke
+485,597,2,107,53.5,53.5,39,68,Sport,Golf,,,Golf
+486,972,2,1344,672.0,672.0,278,1066,Sport,Klettern,,,Klettern
+487,985,2,2124,1062.0,1062.0,104,2020,Politik,_Organe,Bundesverwaltung,,Bundesverwaltung
+488,994,2,783,391.5,391.5,174,609,_Länder,Afrika,Burkina Faso,,Burkina Faso
+489,996,2,3441,1720.5,1720.5,1230,2211,_Zeitgeschichte,20 Jahre Dayton-Abkommen,,,20 Jahre Dayton-Abkommen
+490,399,2,1777,888.5,888.5,528,1249,Medien,Radio Basilisk,,,Radio Basilisk
+491,1013,2,2252,1126.0,1126.0,1014,1238,Buvette,,,,Buvette
+492,377,2,798,399.0,399.0,179,619,_Personen,Toni Brunner,,,Toni Brunner
+493,21,2,2571,1285.5,1285.5,144,2427,_Zeitgeschichte,Finanzkrise,,,Finanzkrise
+494,1021,2,3760,1880.0,1880.0,405,3355,_Zeitgeschichte,50 Jahre Frauenstimmrecht,,,50 Jahre Frauenstimmrecht
+495,1024,2,4601,2300.5,2300.5,800,3801,Kultur,Zirkus,,,Zirkus
+496,299,2,31059,15529.5,15529.5,112,30947,_Länder,Afrika,Tunesien,,Tunesien
+497,302,2,861,430.5,430.5,110,751,_Personen,Doris Leuthard,,,Doris Leuthard
+498,331,2,5412,2706.0,2706.0,642,4770,_Personen,Ueli Maurer,,,Ueli Maurer
+499,317,2,1789,894.5,894.5,500,1289,_Länder,Europa,Dänemark,,Dänemark
+500,1047,2,6095,3047.5,3047.5,383,5712,Medien,Fernsehen,Serien,,Serien
+501,315,2,745,372.5,372.5,33,712,_Länder,Europa,Portugal,,Portugal
+502,253,2,945,472.5,472.5,176,769,_Firmen,Bank Sarasin,,,Bank Sarasin
+503,411,2,481,240.5,240.5,195,286,_Länder,Naher Osten,Jemen,,Jemen
+504,1049,2,1150,575.0,575.0,337,813,_Personen,Donald Trump,,,Donald Trump
+505,589,2,3029,1514.5,1514.5,1108,1921,_Textformen & feste Rubriken,Community,,,Community
+506,490,2,494,247.0,247.0,194,300,_Jahreszeiten,Frühling,,,Frühling
+507,942,2,2173,1086.5,1086.5,1022,1151,Wochenthema,Wochenthema Verkehrskonzept,,,Wochenthema Verkehrskonzept
+508,551,2,7609,3804.5,3804.5,1180,6429,_Personen,Rudolf Rechsteiner,,,Rudolf Rechsteiner
+509,548,2,630,315.0,315.0,43,587,Wirtschaft,Maschinenindustrie,,,Maschinenindustrie
+510,547,2,1087,543.5,543.5,63,1024,Wirtschaft,Uhrenindustrie,,,Uhrenindustrie
+511,497,2,4504,2252.0,2252.0,947,3557,_Firmen,Nestlé,,,Nestlé
+512,509,2,106,53.0,53.0,51,55,Politik,Internationale Organisationen,,,Internationale Organisationen
+513,536,2,2922,1461.0,1461.0,716,2206,_Textformen & feste Rubriken,,,,_Textformen & feste Rubriken
+514,50,1,673,673.0,673.0,673,673,Kino,Biografie Film,,,Biografie Film
+515,111,1,92,92.0,92.0,92,92,Region der Schweiz,Kanton Luzern,,,Kanton Luzern
+516,115,1,1160,1160.0,1160.0,1160,1160,Region der Schweiz,Kanton Schaffhausen,,,Kanton Schaffhausen
+517,1035,1,2760,2760.0,2760.0,2760,2760,Sport,Turnen,,,Turnen
+518,879,1,666,666.0,666.0,666,666,Sport,Segeln,,,Segeln
+519,1030,1,1693,1693.0,1693.0,1693,1693,jazz,,,,jazz
+520,122,1,66,66.0,66.0,66,66,Region der Schweiz,Kanton Waadt,,,Kanton Waadt
+521,874,1,182,182.0,182.0,182,182,_Textformen & feste Rubriken,100 Jahre 1. Weltkrieg,,,100 Jahre 1. Weltkrieg
+522,865,1,1017,1017.0,1017.0,1017,1017,Partner,,,,Partner
+523,944,1,1031,1031.0,1031.0,1031,1031,Wochenthema,Wochenthema Fortpflanzungsmedizin,,,Wochenthema Fortpflanzungsmedizin
+524,43,1,3801,3801.0,3801.0,3801,3801,Veranstaltung,Zirkus Veranstaltung,,,Zirkus Veranstaltung
+525,947,1,1081,1081.0,1081.0,1081,1081,_Länder,Asien,Vietnam,,Vietnam
+526,940,1,6862,6862.0,6862.0,6862,6862,Wochenthema,Wochenthema Scientology,,,Wochenthema Scientology
+527,65,1,408,408.0,408.0,408,408,Kino,Romanze Film,,,Romanze Film
+528,980,1,398,398.0,398.0,398,398,Sport,EHC Basel,,,EHC Basel
+529,46,1,223,223.0,223.0,223,223,Kino,Abenteuer Film,,,Abenteuer Film
+530,919,1,5717,5717.0,5717.0,5717,5717,_Zeitgeschichte,Nationalsozialismus,,,Nationalsozialismus
+531,913,1,832,832.0,832.0,832,832,_Länder,Europa,Litauen,,Litauen
+532,34,1,843,843.0,843.0,843,843,_Personen,,,,_Personen
+533,909,1,1066,1066.0,1066.0,1066,1066,Kultur,Kulturjahr,,,Kulturjahr
+534,1017,1,840,840.0,840.0,840,840,Ozeanium,,,,Ozeanium
+535,60,1,4712,4712.0,4712.0,4712,4712,Kino,Kriegsfilm Film,,,Kriegsfilm Film
+536,920,1,883,883.0,883.0,883,883,Lokales,Fasnacht,Basler Fasnacht 2015,,Basler Fasnacht 2015
+537,102,1,43,43.0,43.0,43,43,Region der Schweiz,Kanton Aargau,,,Kanton Aargau
+538,883,1,2443,2443.0,2443.0,2443,2443,Gesellschaft,Rassismus,Basel zeigt Haltung,,Basel zeigt Haltung
+539,1011,1,408,408.0,408.0,408,408,Muba,,,,Muba
+540,110,1,957,957.0,957.0,957,957,Region der Schweiz,Kanton Jura,,,Kanton Jura
+541,51,1,902,902.0,902.0,902,902,Kino,Crime Film,,,Crime Film
+542,313,1,78,78.0,78.0,78,78,_Länder,Europa,Niederlande,,Niederlande
+543,824,1,1466,1466.0,1466.0,1466,1466,Christoph Merian Stiftung,,,,Christoph Merian Stiftung
+544,419,1,409,409.0,409.0,409,409,Bildung,Kindergarten,,,Kindergarten
+545,534,1,1200,1200.0,1200.0,1200,1200,Gesellschaft,Sterbehilfe,,,Sterbehilfe
+546,533,1,445,445.0,445.0,445,445,Sport,Snowboard,,,Snowboard
+547,516,1,1889,1889.0,1889.0,1889,1889,Sport,Motorsport,,,Motorsport
+548,492,1,608,608.0,608.0,608,608,_Jahreszeiten,Herbst,,,Herbst
+549,488,1,42,42.0,42.0,42,42,_Jahreszeiten,,,,_Jahreszeiten
+550,464,1,522,522.0,522.0,522,522,_Länder,Europa,Tschechien,,Tschechien
+551,462,1,127,127.0,127.0,127,127,Umwelt & Natur,Gentech,,,Gentech
+552,461,1,115,115.0,115.0,115,115,_Länder,Nordamerika,Kanada,,Kanada
+553,450,1,118,118.0,118.0,118,118,_Länder,Afrika,Kongo,,Kongo
+554,257,1,254,254.0,254.0,254,254,_Personen,Sabine Pegoraro,,,Sabine Pegoraro
+555,427,1,2287,2287.0,2287.0,2287,2287,Gesellschaft,Suizid,,,Suizid
+556,425,1,609,609.0,609.0,609,609,_Länder,Afrika,Mali,,Mali
+557,268,1,112,112.0,112.0,112,112,Unglücksfälle und Verbrechen,Völkermord,,,Völkermord
+558,404,1,1000,1000.0,1000.0,1000,1000,Sport,Fussball,Servette Genf,,Servette Genf
+559,816,1,1049,1049.0,1049.0,1049,1049,_Textformen & feste Rubriken,Debatte,,,Debatte
+560,400,1,528,528.0,528.0,528,528,Medien,Blick,,,Blick
+561,390,1,820,820.0,820.0,820,820,_Personen,Claude Janiak,,,Claude Janiak
+562,388,1,2318,2318.0,2318.0,2318,2318,_Personen,Isaac Reber,,,Isaac Reber
+563,382,1,466,466.0,466.0,466,466,_Personen,Christian Levrat,,,Christian Levrat
+564,372,1,1351,1351.0,1351.0,1351,1351,_Personen,Beat Jans,,,Beat Jans
+565,294,1,72,72.0,72.0,72,72,_Länder,Asien,Burma,,Burma
+566,295,1,588,588.0,588.0,588,588,_Länder,Europa,Norwegen,,Norwegen
+567,338,1,751,751.0,751.0,751,751,Bildung,Fachhochschulen,,,Fachhochschulen
+568,335,1,113,113.0,113.0,113,113,_Personen,Barack Obama,,,Barack Obama
+569,333,1,1133,1133.0,1133.0,1133,1133,_Personen,Simonetta Sommaruga,,,Simonetta Sommaruga
+570,325,1,159,159.0,159.0,159,159,Aargau,,,,Aargau
+571,319,1,832,832.0,832.0,832,832,_Länder,Europa,Finnland,,Finnland
+572,316,1,681,681.0,681.0,681,681,_Länder,Europa,Schweden,,Schweden
+573,586,1,85,85.0,85.0,85,85,_Firmen,Apple,,,Apple
+574,591,1,709,709.0,709.0,709,709,_Personen,Herzog & de Meuron,,,Herzog & de Meuron
+575,216,1,145,145.0,145.0,145,145,_Länder,Asien,Japan,,Japan
+576,667,1,952,952.0,952.0,952,952,Restaurant: Küche,Küche: Gut bürgerlich,,,Küche: Gut bürgerlich
+577,814,1,902,902.0,902.0,902,902,Politik,Abstimmungen & Wahlen,Abstimmungs-Spickzettel,,Abstimmungs-Spickzettel
+578,810,1,76,76.0,76.0,76,76,_Zeitgeschichte,Honoraraffäre,,,Honoraraffäre
+579,807,1,1036,1036.0,1036.0,1036,1036,_Textformen & feste Rubriken,Hazel Unchained,,,Hazel Unchained
+580,802,1,528,528.0,528.0,528,528,Medien,WOZ,,,WOZ
+581,801,1,149,149.0,149.0,149,149,Sport,Olympische Spiele,Olympische Winterspiele 2014,,Olympische Winterspiele 2014
+582,797,1,832,832.0,832.0,832,832,_Länder,Europa,Lettland,,Lettland
+583,787,1,252,252.0,252.0,252,252,_Länder,Südamerika,Ecuador,,Ecuador
+584,149,1,1370,1370.0,1370.0,1370,1370,_Firmen,UBS,,,UBS
+585,766,1,1256,1256.0,1256.0,1256,1256,Kultur,Literatur & Lyrik,Basler Buchtipp,,Basler Buchtipp
+586,764,1,310,310.0,310.0,310,310,Sport,Fussball,FC Aarau,,FC Aarau
+587,762,1,258,258.0,258.0,258,258,_Länder,Asien,Bangladesch,,Bangladesch
+588,757,1,1304,1304.0,1304.0,1304,1304,Sport,American Football,,,American Football
+589,753,1,1014,1014.0,1014.0,1014,1014,Politik,_Parteien,EVP,,EVP
+590,752,1,27387,27387.0,27387.0,27387,27387,_Länder,Naher Osten,Jordanien,,Jordanien
+591,743,1,791,791.0,791.0,791,791,_Textformen & feste Rubriken,Adventskalender,,,Adventskalender
+592,737,1,150,150.0,150.0,150,150,Sport,Fussball,Euro 2020,,Euro 2020
+593,312,1,199,199.0,199.0,199,199,_Länder,Europa,Irland,,Irland
+594,730,1,4316,4316.0,4316.0,4316,4316,_Personen,Murat Yakin,,,Murat Yakin
+595,724,1,46,46.0,46.0,46,46,_Länder,Südamerika,Argentinien,,Argentinien
+596,723,1,1693,1693.0,1693.0,1693,1693,_Länder,Südamerika,Venezuela,,Venezuela
+597,191,1,5057,5057.0,5057.0,5057,5057,_Firmen,Sandoz,,,Sandoz
+598,705,1,2448,2448.0,2448.0,2448,2448,Restaurant: Ambiente,Ambiente: American Restaurant,,,Ambiente: American Restaurant
+599,682,1,712,712.0,712.0,712,712,Restaurant: Küche,Küche: Portugiesisch,,,Küche: Portugiesisch
+600,680,1,972,972.0,972.0,972,972,Restaurant: Küche,Küche: Marokkanisch,,,Küche: Marokkanisch
+601,676,1,3175,3175.0,3175.0,3175,3175,Restaurant: Küche,Küche: Pizzeria,,,Küche: Pizzeria
+602,674,1,2448,2448.0,2448.0,2448,2448,Restaurant: Küche,Küche: Mexikanisch,,,Küche: Mexikanisch
+603,668,1,2264,2264.0,2264.0,2264,2264,Restaurant: Küche,Küche: Hamburger,,,Küche: Hamburger
+604,1050,1,41,41.0,41.0,41,41,_Länder,Südamerika,Kolumbien,,Kolumbien
