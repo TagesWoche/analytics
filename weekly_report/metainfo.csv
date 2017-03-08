@@ -1,4 +1,6 @@
-,id,multisession,nutzer,pageviews_news,pageviews_newswire,pageviews_total,published_articles,week
-0,,2640,90793,77117,25277,102394,57,KW 4
-1,,2581,93399,84454,16253,100707,53,KW 3
-2,2,2726,78513,73936,16377,90313,53,KW 2
+,id,week,nutzer,published_articles,pageviews_news,pageviews_newswire,pageviews_total,facebook_interaktionen
+0,1,KW 1,86754,47,84872,17986,102858,1403
+1,2,KW 2,78513,53,86146,16992,103138,2556
+2,3,KW 3,93401,53,91479,17245,108724,3034
+3,4,KW 4,90793,57,83713,26505,110218,2280
+4,5,KW 5,85302,53,90931,15247,106178,1325
